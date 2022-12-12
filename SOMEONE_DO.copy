@@ -1,0 +1,8 @@
+AI for using wind runes in scenario 8
+Basically, renewing pathfinding default AI considering refilling movement points tiles (C++, lua?)
+
+AI for forest_animal to capture village in territories (C++, lua?)
+
+Coding Minimap making on Load Game and Map Editor to read custom terrain_type and graphics(C++)?
+
+Instantly, flashing tile in scenario 2 was lacking in speed (C++)
