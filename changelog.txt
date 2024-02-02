@@ -4,7 +4,11 @@ Change Log v3.0.0
 ===================
 
 v3.0.0
---> 
+--> Fixed deprecated terrain
+--> Added 2 difficulty levels in between Easy and Nightmare
+--> fixed AMLA and xp bar issues with several campaign units
+--> fixed missing references to no longer present .jpg images
+    --> converted all to .webp
 
 v2.42.0
 --> Made repository from 1.16 add-on server download
