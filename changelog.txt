@@ -9,6 +9,9 @@ v3.0.0
 --> fixed AMLA and xp bar issues with several campaign units
 --> fixed missing references to no longer present .jpg images
     --> converted all to .webp
+--> S2: lava chasm healing value 4 HP to 6 HP
+--> S5: turn limits increased on all difficulties
+--> S8: burning heart healing: 4 HP to 6 HP
 
 v2.42.0
 --> Made repository from 1.16 add-on server download
