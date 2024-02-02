@@ -12,6 +12,7 @@ v3.0.0
 --> S2: lava chasm healing value 4 HP to 6 HP
 --> S5: turn limits increased on all difficulties
 --> S8: burning heart healing: 4 HP to 6 HP
+--> Generated .pot file
 
 v2.42.0
 --> Made repository from 1.16 add-on server download
