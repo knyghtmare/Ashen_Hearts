@@ -10,7 +10,8 @@ local cfg = {
 local ca_goto_AH = {}
  
 function ca_goto_AH:evaluation(cfg,data)
-    -- For convenience, we check for locations here, and just pass that to the exec function
+    -- For convenience, we check for locations here, 
+    -- and just pass that to the exec function
     -- This is mostly to make the unique_goals option easier
     local width, height = wesnoth.current.map.playable_width, wesnoth.current.map.playable_height
     local locs = wesnoth.get_locations {
