@@ -1,7 +1,11 @@
 Ashen Hearts
 ===================
-Change Log v3.0.0
+Change Log v3.0.1
 ===================
+
+v3.0.1
+--> Added Flag variants for all sides
+--> Elvish Bloodmaiden: hit and die sound: human_male -> elf_female
 
 v3.0.0
 --> Fixed deprecated terrain
