@@ -1,7 +1,16 @@
 Ashen Hearts
 ===================
-Change Log v3.0.1
+Change Log v3.0.2
 ===================
+
+v3.0.2
+--> S1: UX changes
+--> S2: typo fixes
+--> S3, S4: reduce player starting gold on nightmare and hard difficulty
+--> S5: slightly reduce player starting gold on hard and Nightmare
+--> S5: typo error fixed
+--> Units: Ironbender description typo issues have been fixed
+--> 
 
 v3.0.1
 --> Added Flag variants for all sides
