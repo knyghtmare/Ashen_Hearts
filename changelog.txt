@@ -1,7 +1,14 @@
 Ashen Hearts
 ===================
-Change Log v3.0.2
+Change Log v3.0.3
 ===================
+
+v3.0.3
+--> Add missing campaign rank, start year and end year
+    --> Accidentally discovered by Dalas
+--> Units:
+    --> Assign correct die/hit sounds to clockwork units
+    --> Assign correct die/hit sounds to dwarvish bear rider units
 
 v3.0.2
 --> S1: UX changes
