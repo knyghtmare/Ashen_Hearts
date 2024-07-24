@@ -11,6 +11,7 @@ v3.0.3
     --> Assign correct die/hit sounds to clockwork units
     --> adjust arcane resistance of mechanical/clockwork units
     --> Assign correct die/hit sounds to dwarvish bear rider units
+--> S7: fixed a bug that assigned the wrong recruit list to enemy sides on EASY
 
 
 v3.0.2
