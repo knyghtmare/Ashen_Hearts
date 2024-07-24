@@ -8,6 +8,7 @@ v3.0.3
     --> Accidentally discovered by Dalas
 --> Units:
     --> Assign correct die/hit sounds to clockwork units
+    --> adjust arcane resistance of mechanical/clockwork units
     --> Assign correct die/hit sounds to dwarvish bear rider units
 
 v3.0.2
