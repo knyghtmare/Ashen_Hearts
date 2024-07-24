@@ -3,6 +3,7 @@ Ashen Hearts
 Change Log v3.0.3
 ===================
 
+
 v3.0.3
 --> Add missing campaign rank, start year and end year
     --> Accidentally discovered by Dalas
@@ -11,6 +12,7 @@ v3.0.3
     --> adjust arcane resistance of mechanical/clockwork units
     --> Assign correct die/hit sounds to dwarvish bear rider units
 
+
 v3.0.2
 --> S1: UX changes
 --> S2: typo fixes
@@ -18,7 +20,7 @@ v3.0.2
 --> S5: slightly reduce player starting gold on hard and Nightmare
 --> S5: typo error fixed
 --> Units: Ironbender description typo issues have been fixed
---> 
+
 
 v3.0.1
 --> Added Flag variants for all sides
