@@ -229,7 +229,7 @@ msgstr ""
 
 #. [part]
 #: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:25
-msgid "Living around and inside the largest volcano in the Heartfangs, the Ashen's Maw, the drakes remained mostly unnoticed by the other races. Their innate flight allowed them to traverse the harsh terrain, passing from mountain to mountain with ease. The inner fire granted by their ancient forefathers, the mighty dragons, allowed them to brave the frigid heights of the Heartfangs. As the drakes lived through the generations, nothing ever seemed to change . . . "
+msgid "Living around and inside the largest volcano in the Heartfangs, the Ashen's Maw, the drakes remained mostly unnoticed by the other races. Their innate flight allowed them to traverse the harsh terrain, passing from mountain to mountain with ease. The inner fire granted by their ancient forefathers, the mighty dragons, allowed them to brave the frigid heights of the Heartfangs. As the drakes lived through the generations, nothing ever seemed to change... "
 msgstr ""
 
 #. [part]
@@ -344,7 +344,7 @@ msgstr ""
 
 #. [message]: speaker=Menor IV
 #: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:370
-msgid "He . . . he is right, Herkarth, but it is not only my inner fire. The fires of all drakes of Ashen's Maw have dimmed. Only yours still shines as brightly as those of our ancestors. Be at my side and fight in my name, for I cannot anymore."
+msgid "He... he is right, Herkarth, but it is not only my inner fire. The fires of all drakes of Ashen's Maw have dimmed. Only yours still shines as brightly as those of our ancestors. Be at my side and fight in my name, for I cannot anymore."
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -440,7 +440,7 @@ msgstr ""
 
 #. [message]: speaker=Menor IV
 #: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:552
-msgid "Your crushing defeat of the rebels will cow the other drakes into quietly accepting my rule for now. But, one day, they will forget about today's battle and another will be sure to challenge me again. Alas, I cannot rely on you forever, Herkarth. Luthir spoke the truth . . . my fire has faded, and its weakness is spreading across the drakes like a disease."
+msgid "Your crushing defeat of the rebels will cow the other drakes into quietly accepting my rule for now. But, one day, they will forget about today's battle and another will be sure to challenge me again. Alas, I cannot rely on you forever, Herkarth. Luthir spoke the truth... my fire has faded, and its weakness is spreading across the drakes like a disease."
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -455,7 +455,7 @@ msgstr ""
 
 #. [message]: speaker=Herkarth
 #: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:567
-msgid "Then it is my duty to find the cause of this illness, but before that . . ."
+msgid "Then it is my duty to find the cause of this illness, but before that..."
 msgstr ""
 
 #. [event]
@@ -470,17 +470,17 @@ msgstr ""
 
 #. [message]: speaker=Herkarth
 #: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:588
-msgid "Dwarves? At the Ashen's Maw? This cannot be . . . since the dawn of time, neither man nor dwarf has dared to wander through the Heartfangs and approach us at our very own volcano."
+msgid "Dwarves? At the Ashen's Maw? This cannot be... since the dawn of time, neither man nor dwarf has dared to wander through the Heartfangs and approach us at our very own volcano."
 msgstr ""
 
 #. [message]: speaker=Uluthur
 #: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:593
-msgid "I swear that I speak the truth! Their axes are sharp and their armors are thick. And their beards, well, actually . . . one dwarf fell into the lava and his beard burned well."
+msgid "I swear that I speak the truth! Their axes are sharp and their armors are thick. And their beards, well, actually... one dwarf fell into the lava and his beard burned well."
 msgstr ""
 
 #. [message]: speaker=Menor IV
 #: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:598
-msgid "If what you say is true, then they must sense our weakness. Herkarth . . ."
+msgid "If what you say is true, then they must sense our weakness. Herkarth..."
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -635,7 +635,7 @@ msgstr ""
 
 #. [message]: speaker=Aragan
 #: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:570
-msgid "It . . . <i>*cough*</i> . . . be not me life <i>*cough*</i> . . . that be ending . . . drake!"
+msgid "It... <i>*cough*</i>... be not me life <i>*cough*</i>... that be ending... drake!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -650,7 +650,7 @@ msgstr ""
 
 #. [message]: speaker=Herkarth
 #: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:585
-msgid "The timing of your attack . . . you <i>do</i> know all about this! Tell me what you know and I might spare your life!"
+msgid "The timing of your attack... you <i>do</i> know all about this! Tell me what you know and I might spare your life!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
@@ -675,7 +675,7 @@ msgstr ""
 
 #. [message]: speaker=Aragan
 #: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:651
-msgid "I <i>*cough*</i> . . . I be nae tellin' ye nothin'! Now <i>*cough*</i> let me . . . down!"
+msgid "I <i>*cough*</i>... I be nae tellin' ye nothin'! Now <i>*cough*</i> let me... down!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
@@ -710,7 +710,7 @@ msgstr ""
 
 #. [message]: speaker=Herkarth
 #: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:739
-msgid "We have to find out. Our inner flame is slowly dying. If we can't stop the process . . ."
+msgid "We have to find out. Our inner flame is slowly dying. If we can't stop the process..."
 msgstr ""
 
 #. [message]: speaker=Uluthur
@@ -897,12 +897,12 @@ msgstr ""
 
 #. [message]: speaker=Uluthur
 #: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:534
-msgid "It seems like they're serious about fighting us! We should stay away from them. Their warriors appear to be more experienced than ours. We should just leave Snowthorn Vale . . ."
+msgid "It seems like they're serious about fighting us! We should stay away from them. Their warriors appear to be more experienced than ours. We should just leave Snowthorn Vale..."
 msgstr ""
 
 #. [message]: speaker=Uluthur
 #: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:539
-msgid ". . . or we could lure the dwarves to those drakes, wait for them to fight each other, and steal that magical flaming sword! It certainly isn't of use to them right now, is it? They're not doing anything here, but we . . . we have a task to do!"
+msgid ". . . or we could lure the dwarves to those drakes, wait for them to fight each other, and steal that magical flaming sword! It certainly isn't of use to them right now, is it? They're not doing anything here, but we... we have a task to do!"
 msgstr ""
 
 #. [message]: speaker=Kerlarn
@@ -947,7 +947,7 @@ msgstr ""
 
 #. [message]: speaker=Cragdin
 #: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:674
-msgid "The . . . crown . . . it will . . . be ours . . ."
+msgid "The... crown... it will... be ours..."
 msgstr ""
 
 #. [message]: speaker=unit
@@ -1007,7 +1007,7 @@ msgstr ""
 
 #. [message]: speaker=Herkarth
 #: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:801
-msgid "Lintanir forest? That's so far away. There's no way you made it here . . ."
+msgid "Lintanir forest? That's so far away. There's no way you made it here..."
 msgstr ""
 
 #. [message]: speaker=Elri
@@ -1027,7 +1027,7 @@ msgstr ""
 
 #. [message]: speaker=Elri
 #: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:821
-msgid "My kin and I don't care about happenings outside of our woods. I seek only the traitor . . . we cannot let him so blatantly disobey the decrees of our elders."
+msgid "My kin and I don't care about happenings outside of our woods. I seek only the traitor... we cannot let him so blatantly disobey the decrees of our elders."
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -1116,7 +1116,7 @@ msgstr ""
 
 #. [message]: speaker=Uluthur
 #: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:319
-msgid "But . . . I do not see anything that could be the source of the reflection."
+msgid "But... I do not see anything that could be the source of the reflection."
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -1161,7 +1161,7 @@ msgstr ""
 
 #. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:484
-msgid "I am sorry. But . . . I have to be sure . . ."
+msgid "I am sorry. But... I have to be sure..."
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -1266,7 +1266,7 @@ msgstr ""
 
 #. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:678
-msgid "I . . . cannot help you now. But when you have stepped into the darkness, we will meet again."
+msgid "I... cannot help you now. But when you have stepped into the darkness, we will meet again."
 msgstr ""
 
 #. [scenario]: id=05_Runic_Gate
@@ -1395,7 +1395,7 @@ msgstr ""
 
 #. [message]: speaker=Ilaindil
 #: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:739
-msgid "Ah . . . a bloodmaiden . . . they sent you . . . to find me?"
+msgid "Ah... a bloodmaiden... they sent you... to find me?"
 msgstr ""
 
 #. [message]: speaker=Elri
@@ -1405,7 +1405,7 @@ msgstr ""
 
 #. [message]: speaker=Ilaindil
 #: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:749
-msgid "What . . . have I done . . . to deserve this?"
+msgid "What... have I done... to deserve this?"
 msgstr ""
 
 #. [message]: speaker=Elri
@@ -1615,7 +1615,7 @@ msgstr ""
 
 #. [message]: speaker=Herkarth
 #: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:527
-msgid "Hold on! What . . . what is that?"
+msgid "Hold on! What... what is that?"
 msgstr ""
 
 #. [message]: speaker=Uluthur
@@ -1650,7 +1650,7 @@ msgstr ""
 
 #. [message]: speaker=IzMulchzaf
 #: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:600
-msgid "The magic . . . forever binding . . . destined to destroy . . . will my thralldom finally end?"
+msgid "The magic... forever binding... destined to destroy... will my thralldom finally end?"
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -1779,7 +1779,7 @@ msgstr ""
 
 #. [message]: speaker=Herkarth
 #: Ashen_Hearts/scenarios/07_Dragonheart.cfg:573
-msgid "You are right. This sorcery feels familiar. Let me see . . . I know! It's the wanderer!"
+msgid "You are right. This sorcery feels familiar. Let me see... I know! It's the wanderer!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -1956,7 +1956,7 @@ msgstr ""
 
 #. [message]: speaker=Ilrandh
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:673
-msgid "The dragonheart has returned! Wha . . . what have you done do to our runesmiths?"
+msgid "The dragonheart has returned! Wha... what have you done do to our runesmiths?"
 msgstr ""
 
 #. [message]: speaker=Khazran_Dragonheart
@@ -1966,7 +1966,7 @@ msgstr ""
 
 #. [message]: speaker=Ilrandh
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:683
-msgid "You monster . . . I see that it is come to this. I myself shall lead my troops! Skjal! Hold the rear flank - let no drake through!"
+msgid "You monster... I see that it is come to this. I myself shall lead my troops! Skjal! Hold the rear flank - let no drake through!"
 msgstr ""
 
 #. [message]: speaker=Skjal
@@ -2021,7 +2021,7 @@ msgstr ""
 
 #. [message]: speaker=Ilrandh
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:818
-msgid "By the day's eve, we shall storm their fortress and reforge the Underearth Crown! Then . . ."
+msgid "By the day's eve, we shall storm their fortress and reforge the Underearth Crown! Then..."
 msgstr ""
 
 #. [message]: speaker=Ilrandh
@@ -2041,7 +2041,7 @@ msgstr ""
 
 #. [message]: speaker=Khazran_Dragonheart
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:852
-msgid "The Oaken's Stone contains great power, Herkarth. It is the last piece of the Underearth Crown, a legendary artifact possessed of untold power. If the stoneheads manage to wrest the Oaken's Stone from us . . . the Underearth Crown will be unleashed and the dwarves will surely eradicate us all. We must stop Ilrandh from reaching the Stone."
+msgid "The Oaken's Stone contains great power, Herkarth. It is the last piece of the Underearth Crown, a legendary artifact possessed of untold power. If the stoneheads manage to wrest the Oaken's Stone from us... the Underearth Crown will be unleashed and the dwarves will surely eradicate us all. We must stop Ilrandh from reaching the Stone."
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -2099,7 +2099,7 @@ msgstr ""
 
 #. [message]: speaker=Menor IV
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:983
-msgid "By the Ashen's Maw! Is . . . is that you, Khazran?"
+msgid "By the Ashen's Maw! Is... is that you, Khazran?"
 msgstr ""
 
 #. [message]: speaker=Khazran_Dragonheart
@@ -2119,7 +2119,7 @@ msgstr ""
 
 #. [message]: speaker=Menor IV
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1050
-msgid "The heat . . . I can feel its strength! The flame of our ancestors burns within me once more!"
+msgid "The heat... I can feel its strength! The flame of our ancestors burns within me once more!"
 msgstr ""
 
 #. [message]: speaker=Menor IV
@@ -2149,7 +2149,7 @@ msgstr ""
 
 #. [message]: speaker=Ilrandh
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1267
-msgid "The . . . the . . . Oaken's Stone . . . give it . . . to me."
+msgid "The... the... Oaken's Stone... give it... to me."
 msgstr ""
 
 #. [message]: speaker=Khazran_Dragonheart
@@ -2219,12 +2219,12 @@ msgstr ""
 
 #. [message]: speaker=Uluthur
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1442
-msgid "Uuuuhhh, <i>King Menor V, fire of Menor, first of the Ashen's Maw, rule of drakes</i> . . . that's quite a long name to remember. Perhaps I will still just call you <i>Herkarth</i>. As a friend would."
+msgid "Uuuuhhh, <i>King Menor V, fire of Menor, first of the Ashen's Maw, rule of drakes</i>... that's quite a long name to remember. Perhaps I will still just call you <i>Herkarth</i>. As a friend would."
 msgstr ""
 
 #. [message]: speaker=Herkarth
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1447
-msgid "That's fine, Uluthur, my friend. You stood at my side during times of danger and your valorous heart has never wavered in your loyalty. If you wish it, I shall . . ."
+msgid "That's fine, Uluthur, my friend. You stood at my side during times of danger and your valorous heart has never wavered in your loyalty. If you wish it, I shall..."
 msgstr ""
 
 #. [message]: speaker=Uluthur
