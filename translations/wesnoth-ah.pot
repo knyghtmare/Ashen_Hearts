@@ -730,7 +730,7 @@ msgstr ""
 
 #. [message]: speaker=Uluthur
 #: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:759
-msgid ". . . but I saw a group of men wandering through Snowthorn Vale."
+msgid "... but I saw a group of men wandering through Snowthorn Vale."
 msgstr ""
 
 #. [message]: speaker=Herkarth
@@ -902,7 +902,7 @@ msgstr ""
 
 #. [message]: speaker=Uluthur
 #: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:539
-msgid ". . . or we could lure the dwarves to those drakes, wait for them to fight each other, and steal that magical flaming sword! It certainly isn't of use to them right now, is it? They're not doing anything here, but we... we have a task to do!"
+msgid "... or we could lure the dwarves to those drakes, wait for them to fight each other, and steal that magical flaming sword! It certainly isn't of use to them right now, is it? They're not doing anything here, but we... we have a task to do!"
 msgstr ""
 
 #. [message]: speaker=Kerlarn
@@ -987,7 +987,7 @@ msgstr ""
 
 #. [message]: speaker=Elri
 #: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:781
-msgid ". . ."
+msgid "..."
 msgstr ""
 
 #. [message]: speaker=unit
@@ -1012,7 +1012,7 @@ msgstr ""
 
 #. [message]: speaker=Elri
 #: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:806
-msgid ". . . all alone? I am not. The faeries' will guides me."
+msgid "... all alone? I am not. The faeries' will guides me."
 msgstr ""
 
 #. [message]: speaker=unit
@@ -2026,7 +2026,7 @@ msgstr ""
 
 #. [message]: speaker=Ilrandh
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:830
-msgid ". . . the runes shall release their true power and the mountains' throne shall be ours!"
+msgid "... the runes shall release their true power and the mountains' throne shall be ours!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
