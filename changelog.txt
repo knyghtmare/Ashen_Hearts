@@ -5,6 +5,7 @@ Change Log v3.0.3
 
 
 v3.0.3
+--> Default difficulty is now Challenging (was intially Difficult)
 --> Add missing campaign rank, start year and end year
     --> Accidentally discovered by Dalas
 --> Units:
