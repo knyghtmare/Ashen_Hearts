@@ -2372,7 +2372,7 @@ msgstr ""
 
 #. [unit_type]: id=Dragonheart, race=drake
 #: Ashen_Hearts/units/dragonheart.cfg:21
-msgid "The dragonheart is the link between dragons and drakes. Being a direct descendant of dragons, the blood of the dragons is flowing through his veins. In comparison to the drakes, the descendants of the dragonheart, the dragonheart is able to control his magical inner fire to unleash his great powers. It is said, that dragonhearts are living inside the magma chambers of volcanos and that they are the ones keeping the volcanos active for the heat they are emerging can melt both stone and steel with ease."
+msgid "The dragonheart is the link between dragons and drakes. Being a direct descendant of dragons, the blood of the dragons is flowing through his veins. In comparison to the drakes, the descendants of the dragonheart, the dragonheart is able to control his magical inner fire to unleash his great powers. It is said, that dragonhearts are living inside the magma chambers of volcanoes and that they are the ones keeping the volcanoes active for the heat they are emerging can melt both stone and steel with ease."
 msgstr ""
 
 #. [attack]: type=blade
