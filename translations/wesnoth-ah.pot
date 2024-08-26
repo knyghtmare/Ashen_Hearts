@@ -262,7 +262,7 @@ msgstr ""
 #: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:155
 #: Ashen_Hearts/scenarios/07_Dragonheart.cfg:521
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:577
-msgid "Skip the cutscene?"
+msgid "Would you like to skip the cutscene?"
 msgstr ""
 
 #. [option]
