@@ -1,7 +1,11 @@
 Ashen Hearts
 ===================
-Change Log v3.0.3
+Change Log v3.0.4
 ===================
+
+v3.0.4
+-------------------
+--> added WISh as dependency
 
 
 v3.0.3
