@@ -1678,7 +1678,7 @@ msgstr ""
 msgid "Gryphons are able to move after attacking."
 msgstr ""
 
-#. [side]: type=Dragonheart, id=Khazran_Dragonheart
+#. [side]: type=Dragonheart, id=Khazran
 #. [scenario]: id=07_Dragonheart
 #. [unit_type]: id=Dragonheart, race=drake
 #: Ashen_Hearts/scenarios/07_Dragonheart.cfg:64
@@ -1692,7 +1692,7 @@ msgstr ""
 msgid "Through the dark halls, the drakes followed the snaking river deeper into the temple. They descended farther and farther, to where the air first grew colder in the underground caverns, then warmer as the energies of the temple grew denser and denser. Eventually, they reached a large, ornate doorway, behind which the blazing energies of their ancestors burned brightly in their minds - radiant, but severed from their bodies. The drakes broke through the doors quickly and entered the great chamber."
 msgstr ""
 
-#. [side]: type=Dragonheart, id=Khazran_Dragonheart
+#. [side]: type=Dragonheart, id=Khazran
 #: Ashen_Hearts/scenarios/07_Dragonheart.cfg:69
 msgid "???"
 msgstr ""
@@ -1702,17 +1702,17 @@ msgstr ""
 msgid "Sacrifice this drake?"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/07_Dragonheart.cfg:327
 msgid "I am free once more!"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/07_Dragonheart.cfg:335
 msgid "Your flames are mine!"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/07_Dragonheart.cfg:402
 msgid "Herkarth! The age of drakes is upon us! We, the descendatns of fire, shall enslave all others and rule the world!"
 msgstr ""
@@ -1722,7 +1722,7 @@ msgstr ""
 msgid "The fire burns stronger than ever!"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/07_Dragonheart.cfg:412
 msgid "Forsooth! And we shall have our revenge on the dwarves for their vile deception! They march toward the Ashen's Maw now, hoping to conquer our home, but it is there that we will burn them to ashes!"
 msgstr ""
@@ -1949,7 +1949,7 @@ msgstr ""
 msgid "March on, my brethren! Shields high!"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:668
 msgid "Your march ends here, dwarf!"
 msgstr ""
@@ -1959,7 +1959,7 @@ msgstr ""
 msgid "The dragonheart has returned! Wha... what have you done do to our runesmiths?"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:678
 msgid "Their corpses feed the burning heart of our volcano."
 msgstr ""
@@ -2039,7 +2039,7 @@ msgstr ""
 msgid "The dwarves seek the treasure we claimed from them?"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:852
 msgid "The Oaken's Stone contains great power, Herkarth. It is the last piece of the Underearth Crown, a legendary artifact possessed of untold power. If the stoneheads manage to wrest the Oaken's Stone from us... the Underearth Crown will be unleashed and the dwarves will surely eradicate us all. We must stop Ilrandh from reaching the Stone."
 msgstr ""
@@ -2054,7 +2054,7 @@ msgstr ""
 msgid "My wings are faster than the wind. I shall go."
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:867
 msgid "Go quickly! Once you reach the king, I can focus the power of my fire upon you to teleport to him as well. Wind carry you!"
 msgstr ""
@@ -2087,7 +2087,7 @@ msgstr ""
 msgid "Khazran is able to recruit and recall units. He can also teleport."
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:921
 msgid "I know these runes. They are called wind runes and are used by the dwarves to quickly traverse underground paths."
 msgstr ""
@@ -2102,7 +2102,7 @@ msgstr ""
 msgid "By the Ashen's Maw! Is... is that you, Khazran?"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:988
 msgid "It is. Your bloodline shares my flame, Menor IV, but without our connection, the fire of kings has dwindled o'er time. The ashes devour you from within."
 msgstr ""
@@ -2112,7 +2112,7 @@ msgstr ""
 msgid "Then enlighten me with your flame, dragonheart! Restore our strength, and we shall show the dwarves the folly of their insolence. Those who have the audacity to assault the Ashen's Maw itself shall perish in its burning core!"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1009
 msgid "Then open yourself to me, king of the Menor! Open your heart and embrace the fire!"
 msgstr ""
@@ -2127,7 +2127,7 @@ msgstr ""
 msgid "It is stronger than ever! The ashen fire is gone, and in its place, the fire of the Menor burn proudly again!"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1085
 msgid "Your strength has returned, Menor IV. Now, the dwarves will know the true power of the drakes!"
 msgstr ""
@@ -2142,7 +2142,7 @@ msgstr ""
 msgid "Khazran can recruit and recall. He also has the ability to teleport."
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1203
 msgid "No, no! His crown is protecting him from your flames. But my fire burns brighter. I shall bring him down!"
 msgstr ""
@@ -2152,7 +2152,7 @@ msgstr ""
 msgid "The... the... Oaken's Stone... give it... to me."
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1272
 msgid "Your time has come, dwarf. Embrace your end."
 msgstr ""
@@ -2162,7 +2162,7 @@ msgstr ""
 msgid "Aaaarrrgggghhhh!"
 msgstr ""
 
-#. [message]: speaker=Khazran_Dragonheart
+#. [message]: speaker=Khazran
 #: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1298
 msgid "No dwarf shall ever again take the Underearth Crown. Its power presents too great a risk to us. It must be destroyed"
 msgstr ""
