@@ -1,8 +1,5 @@
-border_size=1
-usage=map
-
-Md, Md, Md, Md, Md, Md, Md, Re, Hhd, Hhd, Hhd, Hhd, Hhd^Fp, Hhd, Hhd, Re, Hhd, Hhd, Hhd, Hhd, Md, Md^Fp, Md^Fp, Hhd^Fp, Md, Hhd^Fp, Xu, Xu, Xu, Xu
-Md, Md, Md, Md, Md, Md, Md, Hhd, Re, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Md, Md, Md^Fp, Md, Md^Fp, Md, Md, Xu, Xu, Xu, Xu
+Md, Md, Md, Md, Md, Md, Md, Re, Hhd, Hhd, Hhd, Hhd, Hhd^Fp, Hhd, Hhd, Re, Hhd, Hhd, Hhd, Hhd, Md, Md^Fp, Md, Hhd^Fp, Md, Hhd^Fp, Xu, Xu, Xu, Xu
+Md, Md, Md, Md, Md, Md, Md, Hhd, Re, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Md, Md, Md, Md, Md, Md, Md, Xu, Xu, Xu, Xu
 Md, Md, Md, Md, Hhd^Fp, Md, Hhd^Es, Hhd^Vhr, Re^Es, Hhd, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd, Hhd, Hhd, Hhd, Hhd, Hhd^Vhr, Md, Md, Md, Hhd^Fp, Xu, Xu, Xu, Xu, Xu
 Md, Md, Md, Md, Hhd, Re^Es, Re, Rd, Rd^Es, Hhd, Hhd, Hhd, Hhd, Hhd^Fp, Hhd, Hhd, Re, Re, Rd^Es, Rd^Es, Hhd, Hhd, Md, Md, Xu, Xu, Hhd, Hhd^Fp, Hhd^Fp, Xu
 Md, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd, Hhd, Re, Re^Es, Rd, Rd, Hhd, Hhd, Hhd, Hhd, Hhd, Hhd, Hhd, Rd, Re, Re^Es, Hhd^Es, Hhd, Hhd, Hhd, Hhd^Fp, Xu, Hhd^Fp, Hhd^Fp, Hhd^Fp, Xu
@@ -17,10 +14,10 @@ Hhd, Re^Es, Rd^Es, Re, Rd, Rd, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, A
 Hhd^Fp, Hhd^Fp, Re, Rd^Es, Rd, Rd, Rd, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Hhd, Hhd, Rd, Rd^Es, Re, Re
 Hhd^Fp, Hhd^Fp, Hhd^Fp, Re, Rd^Fp, Re, Hhd, Ai, Ai, Ai, Hhd, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Hhd, Hhd, Rd, Rd, Re, Re^Es, Re
 Md, Md, Md, Md, Md, Hhd, Hhd, Hhd, Hhd, Hhd, Ai, Ai, Ai, Ai, Rd, Ai, Ai, Ai, Ai, Ai, Ai, Ai, Hhd, Hhd, Hhd, Re, Rd, Rd, Hhd^Fp, Re^Fp
-Md, Md, Md, Md, Md, Md^Fp, Hhd, Hhd, Hhd, Hhd, Ai, Ai, Ai, Ai, Rd, Rd, Ai, Ai, Ai, Ai, Hhd, Ai, Hhd, Hhd, Hhd, Re, Re, Hhd^Vhr, Hhd^Fp, Hhd
-Md^Fp, Md, Md, Md, Md^Fp, Hhd^Fp, Hhd, Hhd, Hhd, Hhd, Rd, Ai, Rd, Rd, 2 Rd, Rd, Rd, Ai, Rd, Hhd, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd
-Hhd^Fp, Hhd^Fp, Md^Fp, Md^Fp, Cte, Md^Fp, Re, Re, Hhd, Hhd, Re, Rd, Rd, Rd, Re, Rd, Rd, Rd, Rd, Hhd, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Md, Hhd^Fp, Xu, Md^Fp
-Hhd, Md^Fp, Hhd^Fp, Kte, Cte, Re, Re, 1 Re, Re, Hhd, Re, Re, Re, Re, Hhd, Hhd, Hhd, Rd, Re^Es, Re^Es, Hhd, Hhd, Md, Hhd, Hhd^Fp, Hhd, Md, Md, Xu, Xu
-Hhd, Hhd^Vhr, Hhd^Fp, Cte, Re, Re, Re, Re, Re, Re, Re, Re, Hhd, Hhd, Hhd^Fp, Md, Md, Re, Md, Re^Es, Hhd^Vhr, Hhd^Fp, Md, Md, Md, Md, Md, Xu, Xu, Xu
+Md, Md, Md, Md, Md, Md, Hhd, Hhd, Hhd, Hhd, Ai, Ai, Ai, Ai, Rd, Rd, Ai, Ai, Ai, Ai, Hhd, Ai, Hhd, Hhd, Hhd, Re, Re, Hhd^Vhr, Hhd^Fp, Hhd
+Md, Md, Md, Md, Md, Hhd^Fp, Hhd, Hhd, Hhd, Hhd, Rd, Ai, Rd, Rd, 2 Rd, Rd, Rd, Ai, Rd, Hhd, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd
+Hhd^Fp, Hhd^Fp, Md, Md, Coa, Md, Re, Re, Hhd, Hhd, Re, Rd, Rd, Rd, Re, Rd, Rd, Rd, Rd, Hhd, Hhd, Hhd, Hhd^Fp, Hhd^Fp, Hhd^Fp, Hhd^Fp, Md, Hhd^Fp, Xu, Md^Fp
+Hhd, Md, Hhd^Fp, Koa, Coa, Re, Re, 1 Re, Re, Hhd, Re, Re, Re, Re, Hhd, Hhd, Hhd, Rd, Re^Es, Re^Es, Hhd, Hhd, Md, Hhd, Hhd^Fp, Hhd, Md, Md, Xu, Xu
+Hhd, Hhd^Vhr, Hhd^Fp, Coa, Re, Re, Re, Re, Re, Re, Re, Re, Hhd, Hhd, Hhd^Fp, Md, Md, Re, Md, Re^Es, Hhd^Vhr, Hhd^Fp, Md, Md, Md, Md, Md, Xu, Xu, Xu
 Rd, Hhd, Hhd, Hhd, Re, Re^Es, Re^Es, Re, Re^Es, Re, Re, Re^Es, Re, Hhd, Hhd, Md, Md, Md, Md, Md, Hhd^Fp, Md, Md, Md, Md, Md, Md, Xu, Xu, Md
-Rd, Rd, Rd, Hhd, Re, Re, Rd, Re^Es, Re, Re^Es, Rd, Rd, Hhd, Hhd, Rd, Hhd^Fp, Hhd, Md, Hhd, Hhd^Fp, Md, Md^Fp, Md^Fp, Md, Hhd, Md, Md, Md, Md, Md
+Rd, Rd, Rd, Hhd, Re, Re, Rd, Re^Es, Re, Re^Es, Rd, Rd, Hhd, Hhd, Rd, Hhd^Fp, Hhd, Md, Hhd, Hhd^Fp, Md, Md, Md, Md, Hhd, Md, Md, Md, Md, Md
