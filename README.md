@@ -1,6 +1,6 @@
 # Ashen Hearts
 
-## Author: Kwandulin
+##### Original Author: Kwandulin
 
 ## Maintainer: Knyghtmare
 
