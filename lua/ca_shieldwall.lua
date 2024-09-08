@@ -5,7 +5,6 @@
 -- difficult part is likely the fact that northward movement is assumed.
 -- I have tried to mark all that code by 'xxx' markers in comments.
 
-local H = wesnoth.require "lua/helper.lua"
 local AH = wesnoth.require "ai/lua/ai_helper.lua"
 
 
