@@ -45,6 +45,9 @@ end
 -- to make code shorter
 local wml_actions = wesnoth.wml_actions
 
+-- support for translatable strings, custom textdomain
+local _ = wesnoth.textdomain "wesnoth-ah"
+
 -- [loot]: replacement for mainline LOOT macro
 -- supported parameters:
 -- StandardSideFilter
