@@ -66,3 +66,139 @@ function wml_actions.loot( cfg )
 		side.gold = side.gold + gold_amount
 	end
 end
+
+-- the three tags below are WML/Lua remakes of Javascript's standard dialogs alert(), confirm() and prompt()
+function wml_actions.alert( cfg )
+	if cfg.title then
+		gui.alert(cfg.title, cfg.message)
+	else
+		gui.alert(cfg.message)
+	end
+end
+
+function wml_actions.confirm( cfg )
+	local variable = cfg.variable or wml.error( "Missing variable= key in [confirm]" )
+
+	local function sync()
+		if cfg.title then
+			return { return_value = gui.confirm(cfg.title, cfg.message) }
+		else
+			return { return_value = gui.confirm(cfg.message) }
+		end
+	end
+
+	local return_table = wesnoth.sync.evaluate_single(sync)
+	wml.variables[variable] = return_table.return_value
+end
+
+function wml_actions.prompt( cfg )
+	local variable = cfg.variable or wml.error( "Missing variable= key in [prompt]" )
+
+	local buttonbox = T.grid {
+				T.row {
+					T.column {
+						T.button {
+							label = "OK",
+							return_value = 1
+						}
+					},
+					T.column {
+						T.spacer {
+							width = 10
+						}
+					},
+					T.column {
+						T.button {
+							label = "Close",
+							return_value = 2
+						}
+					}
+				}
+			}
+
+	local prompt_dialog = {
+		T.helptip { id="tooltip_large" }, -- mandatory field
+		T.tooltip { id="tooltip_large" }, -- mandatory field
+		maximum_height = 600,
+		maximum_width = 800,
+		T.grid { -- Title, will be the object name
+			T.row {
+				T.column {
+					horizontal_alignment = "left",
+					grow_factor = 1,
+					border = "all",
+					border_size = 5,
+					T.label {
+						definition = "title",
+						id = "title"
+					}
+				}
+			},
+			T.row {
+				T.column {
+					vertical_alignment = "center",
+					horizontal_alignment = "center",
+					border = "all",
+					border_size = 5,
+					T.scroll_label {
+						id = "message"
+					}
+				}
+			},
+			T.row {
+				T.column {
+					vertical_alignment = "center",
+					horizontal_alignment = "center",
+					border = "all",
+					border_size = 5,
+					T.text_box {
+						id = "text"
+					}
+				}
+			},
+			-- button box
+			T.row {
+				T.column {
+					vertical_alignment = "center",
+					horizontal_alignment = "center",
+					border = "all",
+					border_size = 5,
+					buttonbox
+				}
+			}
+		}
+	}
+
+	local function preshow(dialog)
+		-- here set all widget starting values
+		dialog.message.use_markup = true
+		dialog.title.label = cfg.title or ""
+		dialog.message.label = cfg.message or ""
+		-- in 1.15.x, setting a translatable string as value of a text box
+		-- widget raises an error; handle this case
+		if cfg.text then
+			dialog.text.text = tostring(cfg.text)
+		end
+	end
+
+	local function sync()
+		local input
+
+		local function postshow(dialog)
+			-- here get all widget values
+			input = dialog.text.text
+		end
+
+		local return_value = gui.show_dialog( prompt_dialog, preshow, postshow )
+		return { return_value = return_value, input = input }
+	end
+
+	local return_table = wesnoth.sync.evaluate_single(sync)
+	local return_value = return_table.return_value
+
+	if return_value == 1 or return_value == -1 then -- if used pressed OK or Enter
+		wml.variables[variable] = return_table.input
+	elseif return_value == 2 or return_value == -2 then -- if user pressed Cancel or Esc
+		wml.variables[variable] = "null" -- any better choice?
+	else wml.error( ( tostring( _"Prompt" ) .. ": " .. tostring( _"Error, return value :" ) .. tostring( return_value ) ) ) end -- any unhandled case is handled here
+end
