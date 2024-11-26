@@ -6,6 +6,7 @@ Change Log v3.0.4
 v3.0.4
 -------------------
 --> added WISh as dependency
+--> S1: Menor IV will not recruit on HARD
 
 
 v3.0.3
