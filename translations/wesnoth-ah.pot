@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2024-02-02 22:40 UTC\n"
+"POT-Creation-Date: 2024-12-23 16:00 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,96 +11,281 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:16
-#: Ashen_Hearts/_main.cfg:8
+#: Ashen_Hearts/_main.cfg:28
+#: Ashen_Hearts/_main.cfg:14
 msgid "Ashen Hearts"
 msgstr ""
 
-#: Ashen_Hearts/_main.cfg:9
+#: Ashen_Hearts/_main.cfg:15
 msgid "In the ancient Heartfang mountains, a once powerful population of drakes has begun to weaken due to a mysterious force dimming their inner fire. Guide Herkarth, the heir of the Menor kings, and his companion Uluthur on a journey to delve into drakes' past and reignite the flames of their ashen hearts."
 msgstr ""
 
-#: Ashen_Hearts/_main.cfg:10
+#: Ashen_Hearts/_main.cfg:16
 msgid "<span color='#fff7a4'>"
 msgstr ""
 
-#: Ashen_Hearts/_main.cfg:11
+#: Ashen_Hearts/_main.cfg:17
 msgid "Feedback: https://discord.gg/rsePgjHRPA (Wesnoth Modders Guild)"
 msgstr ""
 
+#: Ashen_Hearts/_main.cfg:20
+msgid "<span color='#00ff00'>(✔Installed)</span>"
+msgstr ""
+
+#: Ashen_Hearts/_main.cfg:22
+msgid "<span color='#ff0000'>(✘Not Installed)</span>"
+msgstr ""
+
 #. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:17
+#: Ashen_Hearts/_main.cfg:29
 msgid "AH"
 msgstr ""
 
 #. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:28
-msgid "Burner"
-msgstr ""
-
-#. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:28
-msgid "Normal"
-msgstr ""
-
-#. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:29
+#: Ashen_Hearts/_main.cfg:42
 msgid "Fire"
 msgstr ""
 
 #. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:29
-msgid "Challenging"
+#: Ashen_Hearts/_main.cfg:42
+msgid "Normal"
 msgstr ""
 
 #. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:30
+#: Ashen_Hearts/_main.cfg:43
 msgid "Inferno"
 msgstr ""
 
 #. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:30
-msgid "Difficult"
+#: Ashen_Hearts/_main.cfg:43
+msgid "Challenging"
 msgstr ""
 
 #. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:31
+#: Ashen_Hearts/_main.cfg:44
 msgid "Armageddon"
 msgstr ""
 
 #. [campaign]: id=Ashen_Hearts, description={CAMPAIGN_DESC_AH}
-#: Ashen_Hearts/_main.cfg:31
+#: Ashen_Hearts/_main.cfg:44
 msgid "Nightmare"
 msgstr ""
 
 #. [about]
 #: Ashen_Hearts/about.cfg:4
-msgid "Campaign design and programming"
+msgid "Latest Campaign Design and Revision"
 msgstr ""
 
 #. [about]
 #: Ashen_Hearts/about.cfg:10
-msgid "Campaign Maintenance"
+msgid "War of Legends Inventory System"
 msgstr ""
 
 #. [about]
-#: Ashen_Hearts/about.cfg:16
+#: Ashen_Hearts/about.cfg:19
+msgid "Original Campaign Design"
+msgstr ""
+
+#. [about]
+#: Ashen_Hearts/about.cfg:25
 msgid "AI support"
 msgstr ""
 
 #. [about]
-#: Ashen_Hearts/about.cfg:22
+#: Ashen_Hearts/about.cfg:31
 msgid "Artwork"
 msgstr ""
 
 #. [about]
-#: Ashen_Hearts/about.cfg:37
+#: Ashen_Hearts/about.cfg:46
 msgid "Story and dialogue text revisions, campaign description"
 msgstr ""
 
 #. [about]
-#: Ashen_Hearts/about.cfg:43
+#: Ashen_Hearts/about.cfg:52
 msgid "Special Thanks"
+msgstr ""
+
+#. [about]
+#: Ashen_Hearts/about.cfg:59
+msgid "Extensive Feedback and Playtesting"
+msgstr ""
+
+#. [about]
+#: Ashen_Hearts/about.cfg:71
+msgid "Unit Description Updates"
+msgstr ""
+
+#. [about]
+#: Ashen_Hearts/about.cfg:78
+msgid "Feedback"
+msgstr ""
+
+#. [sub_achievement]: id=Knyght_AH_hard_{_SCENARIO_ID}
+#: Ashen_Hearts/achievements.cfg:26
+msgid " (Difficult/Nightmare)"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#: Ashen_Hearts/achievements.cfg:38
+msgid "Reignite from the Ashes"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#: Ashen_Hearts/achievements.cfg:39
+msgid "Completed the campaign <i>Ashen Hearts</i>."
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#. [scenario]: id=01_Inner_Flames
+#: Ashen_Hearts/achievements.cfg:42
+#: Ashen_Hearts/achievements.cfg:59
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:5
+msgid "Inner Flames"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#. [scenario]: id=02_Aragan_the_Iron
+#: Ashen_Hearts/achievements.cfg:43
+#: Ashen_Hearts/achievements.cfg:60
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:4
+msgid "Aragan the Iron"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#. [scenario]: id=03_Snowthorn_Vale
+#: Ashen_Hearts/achievements.cfg:44
+#: Ashen_Hearts/achievements.cfg:61
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:5
+msgid "Snowthorn Vale"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#. [scenario]: id=04_The_Wanderer
+#: Ashen_Hearts/achievements.cfg:45
+#: Ashen_Hearts/achievements.cfg:62
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:5
+msgid "The Wanderer"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#. [scenario]: id=05_Runic_Gate
+#: Ashen_Hearts/achievements.cfg:47
+#: Ashen_Hearts/achievements.cfg:64
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:5
+msgid "Runic Gate"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#. [scenario]: id=06_Tears_of_the_Heartfangs
+#: Ashen_Hearts/achievements.cfg:48
+#: Ashen_Hearts/achievements.cfg:65
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:5
+msgid "Tears of the Heartfangs"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#. [side]
+#. [scenario]: id=07_Dragonheart
+#. [unit_type]: id=Dragonheart, race=drake
+#: Ashen_Hearts/achievements.cfg:49
+#: Ashen_Hearts/achievements.cfg:66
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:48
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:5
+#: Ashen_Hearts/units/Dragonheart.cfg:5
+msgid "Dragonheart"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_standard
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#. [scenario]: id=08_Ilrandh
+#: Ashen_Hearts/achievements.cfg:50
+#: Ashen_Hearts/achievements.cfg:67
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:5
+msgid "Ilrandh"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#: Ashen_Hearts/achievements.cfg:55
+msgid "Reign of the Ashen Drakes"
+msgstr ""
+
+#. [achievement]: id=Knyght_AH_Campaign_hard
+#: Ashen_Hearts/achievements.cfg:56
+msgid "Completed the campaign <i>Ashen Hearts</i> on Nightmare difficulty."
+msgstr ""
+
+#. [lua]: wml_actions.loot
+#: Ashen_Hearts/lua/wml_tags.lua:62
+msgid "You retrieve %d pieces of gold."
+msgstr ""
+
+#. [lua]: postshow
+#: Ashen_Hearts/lua/wml_tags.lua:203
+msgid "Prompt"
+msgstr ""
+
+#. [lua]: postshow
+#: Ashen_Hearts/lua/wml_tags.lua:203
+msgid "Error, return value :"
+msgstr ""
+
+#: Ashen_Hearts/macros/1characters.cfg:8
+msgid "Herkarth"
+msgstr ""
+
+#: Ashen_Hearts/macros/1characters.cfg:23
+msgid "Uluthur"
+msgstr ""
+
+#: Ashen_Hearts/macros/1characters.cfg:37
+msgid "Menor IV"
+msgstr ""
+
+#. [event]
+#. [side]: type=Wanderer, id=Khazran
+#: Ashen_Hearts/macros/1characters.cfg:50
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:227
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:55
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:387
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:513
+msgid "Khazran"
+msgstr ""
+
+#: Ashen_Hearts/macros/1characters.cfg:64
+msgid "Elri"
+msgstr ""
+
+#: Ashen_Hearts/macros/1characters.cfg:76
+msgid "Malkrath"
+msgstr ""
+
+#: Ashen_Hearts/macros/1team_utils.cfg:9
+#: Ashen_Hearts/macros/1team_utils.cfg:16
+msgid "Ashen Maw Drakes"
+msgstr ""
+
+#: Ashen_Hearts/macros/1team_utils.cfg:23
+msgid "Dwarves"
+msgstr ""
+
+#: Ashen_Hearts/macros/1team_utils.cfg:30
+msgid "Elves"
+msgstr ""
+
+#: Ashen_Hearts/macros/1team_utils.cfg:37
+msgid "Merfolk"
+msgstr ""
+
+#: Ashen_Hearts/macros/1team_utils.cfg:44
+msgid "Trolls"
 msgstr ""
 
 #. [regenerate]: id=burning_heart
@@ -118,9 +303,22 @@ msgstr ""
 msgid "The unit will heal itself 6 HP per turn."
 msgstr ""
 
-#: Ashen_Hearts/macros/campaign-macro.cfg:8
-#: Ashen_Hearts/macros/campaign-macro.cfg:14
-msgid "Herkarth"
+#: Ashen_Hearts/macros/campaign-macro.cfg:44
+msgid ""
+"This campaign features adjusted recall costs which vary by unit level. \n"
+"Here is the list:\n"
+"\n"
+"- 10 Gold for level 0 units\n"
+"- 15 Gold for level 1 units\n"
+"- 20 Gold for level 2 units\n"
+"- 30 Gold for level 3 units\n"
+"- 40 Gold for level 4 units\n"
+"- 50 Gold for level 5 and above units"
+msgstr ""
+
+#. [alert]
+#: Ashen_Hearts/macros/campaign-macro.cfg:57
+msgid "Adjusted Standard Recall Costs"
 msgstr ""
 
 #. [dummy]
@@ -134,2107 +332,2736 @@ msgid "+3 movement points after attack."
 msgstr ""
 
 #. [time]: id=dawn
-#: Ashen_Hearts/macros/extra-macro.cfg:413
+#: Ashen_Hearts/macros/extra-macro.cfg:401
 msgid "Dawn"
 msgstr ""
 
 #. [time]: id=morning
-#: Ashen_Hearts/macros/extra-macro.cfg:423
+#: Ashen_Hearts/macros/extra-macro.cfg:411
 msgid "Morning"
 msgstr ""
 
 #. [time]: id=afternoon
-#: Ashen_Hearts/macros/extra-macro.cfg:429
+#: Ashen_Hearts/macros/extra-macro.cfg:417
 msgid "Afternoon"
 msgstr ""
 
 #. [time]: id=dusk
-#: Ashen_Hearts/macros/extra-macro.cfg:435
+#: Ashen_Hearts/macros/extra-macro.cfg:423
 msgid "Dusk"
 msgstr ""
 
 #. [time]: id=first_watch
-#: Ashen_Hearts/macros/extra-macro.cfg:445
+#: Ashen_Hearts/macros/extra-macro.cfg:433
 msgid "First Watch"
 msgstr ""
 
 #. [time]: id=second_watch
-#: Ashen_Hearts/macros/extra-macro.cfg:454
+#: Ashen_Hearts/macros/extra-macro.cfg:442
 msgid "Second Watch"
 msgstr ""
 
-#: Ashen_Hearts/macros/items-macro.cfg:4
-msgid " A unit may only hold one item at a time. You can't remove the item. Do you want this unit to pick it up?"
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/macros/hero-deaths.cfg:12
+msgid "If I perish now, the Drakes of the Ashen Maw are doomed!"
 msgstr ""
 
-#. [message]: speaker=narrator
-#: Ashen_Hearts/macros/items-macro.cfg:48
-msgid "<b>"
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/macros/hero-deaths.cfg:36
+msgid "With my demise, the flickering link between the dragons of old and the drakes has been extinguished..."
 msgstr ""
 
-#. [option]
-#: Ashen_Hearts/macros/items-macro.cfg:54
-msgid "Take it."
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/macros/hero-deaths.cfg:48
+msgid "No! This cannot be! Without the Dragonheart, we cannot destroy the Underearth King!"
 msgstr ""
 
-#. [option]
-#: Ashen_Hearts/macros/items-macro.cfg:94
-msgid "Leave it."
+#. [message]: speaker=Menor IV
+#: Ashen_Hearts/macros/hero-deaths.cfg:66
+msgid "I feel the cold embrace of death... Herkath... my heir... take the drakes and flee! The Ashen Maw has been lost..."
 msgstr ""
 
-#. [message]: speaker=narrator
-#: Ashen_Hearts/macros/items-macro.cfg:114
-msgid "This unit can not use this object."
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/macros/hero-deaths.cfg:91
+msgid "Farewell, Herkath, my friend..."
 msgstr ""
 
-#. [object]
-#: Ashen_Hearts/macros/items-macro.cfg:170
-msgid "Gold"
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/macros/hero-deaths.cfg:103
+msgid "No! This cannot be! Without Uluthur, we cannot prevail!"
 msgstr ""
 
-#. [object]
-#: Ashen_Hearts/macros/items-macro.cfg:172
-msgid "You received "
+#: Ashen_Hearts/macros/items-macro.cfg:166
+#: Ashen_Hearts/macros/items-macro.cfg:207
+#: Ashen_Hearts/macros/items-macro.cfg:220
+#: Ashen_Hearts/macros/items-macro.cfg:260
+msgid "Only Ashen Maw Drakes loyal to Herkarth may take this item."
 msgstr ""
 
-#. [object]
-#: Ashen_Hearts/macros/items-macro.cfg:172
-msgid " gold!"
+#: Ashen_Hearts/macros/items-macro.cfg:168
+msgid "Ring of Swiftness"
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:168
+msgid "This ring has been marked as useless by the drakes who took it from its former owner. Little did they know, this ring was indeed of magical origin."
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:181
+msgid "Only talon-wielding veteran Drake Warriors or Drake Flares may take this item."
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:183
+msgid "Flaming War Talon"
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:183
+msgid "This mighty war talon increases melee damage by +3. This artefact can only be used by drakes with fiery hearts and natural leadership, or great prowess with blades. Forged inside the depths of great volcanoes, this mighty sword contains the essence of fire itself, able to melt any armour with ease."
+msgstr ""
+
+#. [effect]: type=blade
+#: Ashen_Hearts/macros/items-macro.cfg:189
+msgid "burning talon"
+msgstr ""
+
+#. [damage_type]: id=flaming_sword_damage
+#: Ashen_Hearts/macros/items-macro.cfg:194
+msgid "ignited"
+msgstr ""
+
+#. [damage_type]: id=flaming_sword_damage
+#: Ashen_Hearts/macros/items-macro.cfg:195
+msgid "This attack can deal either blade or fire damage, depending on which would be more effective."
+msgstr ""
+
+#. [damage_type]: id=flaming_sword_damage
+#: Ashen_Hearts/macros/items-macro.cfg:196
+msgid "This unit’s melee attack can deal either blade or fire damage, depending on which would be more effective."
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:209
+msgid "Winged Circlet"
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:209
+msgid "The bearer of the Winged Circlet requires 33% less experience to advance. The winged circlet is a ceremonial helmet given to elvish outriders. As it was in the hands of a dwarf, it is likely that it was robbed from a dead elf."
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:222
+msgid "Amulet of Elri"
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:222
+msgid "This unique amulet grants +15hp, +2 moves, +3 damage per strike. This amulet is a unique artefact that was granted to the Bloodmaiden Elri in her hunt of Ilaindil, an elvish rebel who betrayed the elves of Lintair forest."
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:245
+msgid "Only Drakes belonging to the Burner, Fighter and Clasher castes may equip this armor."
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:247
+msgid "Armor of Regeneration"
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:247
+msgid "This golden armor grants +8 regeneration. This armor was smithed by the drakes several centuries ago. Although they lacked the magical prowess to enchant the armor themselves, the drakes forced a captured dwarvish runesmith to do so in their stead."
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:262
+msgid "Head of Iz'Mulch-zaf"
+msgstr ""
+
+#: Ashen_Hearts/macros/items-macro.cfg:262
+msgid "This is the head of a great mechanical dragon, forged of the hardest metal and enchanted with powerful dwarven runes. It grants an additional attack per turn to anyone wearing it. It is said that Iz'Mulch-zaf, the name of the mighty mechanical dragon of the dwarves, was fashioned after a living creature whose soul was captured within the metal and gears of the so called clockwork dragon. Iz'Mulch-zaf was used as a giant battering ram to break open the seals protecting the temple of the drakes."
+msgstr ""
+
+#. [set_menu_item]: id=ashen_hearts_ux_miss_event_prompt_on
+#: Ashen_Hearts/macros/scenario-utils.cfg:15
+msgid "Switch On Attack Miss Hightlight Event"
+msgstr ""
+
+#. [chat]: speaker=WoL SotBE
+#: Ashen_Hearts/macros/scenario-utils.cfg:30
+msgid "Attack Miss Hightlighter has been enabled!"
+msgstr ""
+
+#. [set_menu_item]: id=ashen_hearts_ux_miss_event_prompt_off
+#: Ashen_Hearts/macros/scenario-utils.cfg:38
+msgid "Switch Off Attack Miss Hightlight Event"
+msgstr ""
+
+#. [chat]: speaker=WoL SotBE
+#: Ashen_Hearts/macros/scenario-utils.cfg:53
+msgid "Attack Miss Hightlighter has been disabled!"
+msgstr ""
+
+#. [floating_text]
+#: Ashen_Hearts/macros/scenario-utils.cfg:74
+#: Ashen_Hearts/macros/scenario-utils.cfg:83
+msgid "<span size='x-small'>Miss</span>"
 msgstr ""
 
 #. [time]: id=presence_of_the_dragonheart
-#: Ashen_Hearts/macros/schedule-macro.cfg:6
+#: Ashen_Hearts/macros/schedule-macro.cfg:19
 msgid "Presence of the Dragonheart"
 msgstr ""
 
-#. [time]: id=temple_of_drakes
-#: Ashen_Hearts/macros/schedule-macro.cfg:18
-msgid "Temple of drakes"
+#. [time]: id=temple_of_the_drakes
+#: Ashen_Hearts/macros/schedule-macro.cfg:31
+msgid "Temple of the Drakes"
 msgstr ""
 
-#. [scenario]: id=01_Inner_Flames
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:5
-msgid "Inner Flames"
+#. [disable]: id=attack_only
+#: Ashen_Hearts/macros/specials-macro.cfg:6
+msgid "attack only"
+msgstr ""
+
+#. [disable]: id=attack_only
+#: Ashen_Hearts/macros/specials-macro.cfg:7
+msgid "This weapon will never be used on defence."
+msgstr ""
+
+#. [disable]: id=defend_only
+#: Ashen_Hearts/macros/specials-macro.cfg:15
+msgid "defend only"
+msgstr ""
+
+#. [disable]: id=defend_only
+#: Ashen_Hearts/macros/specials-macro.cfg:17
+msgid "This weapon will only be available for defence."
 msgstr ""
 
 #. [part]
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:17
+#: Ashen_Hearts/macros/story_text.cfg:7
 msgid "During the Silver Ages, between 628 and 673 YW, a second wave of colonization spread across the Northlands of the Great Continent. From the grassy plains to the rolling hills, cities as huge as the mountains themselves rose as the focal points of a bustling trade network. Though the wilderness soon fell to the incursions of the dwarves and humans, there were still places left untouched by the new settlers."
 msgstr ""
 
 #. [part]
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:21
+#: Ashen_Hearts/macros/story_text.cfg:11
 msgid "Southwest of Lake Vrug, the treacherous Heartfangs were known to be among the most dangerous areas of the vast Heart Mountains. A mixture of hazardous terrain, storming blizzards, and frequent landslides drove nearly all travelers away - not only men and dwarves, but even bandits, dark sorcerers, and other outcasts. Thus, the Heartfangs were home to none save for a single, isolated population of drakes."
 msgstr ""
 
 #. [part]
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:25
+#: Ashen_Hearts/macros/story_text.cfg:15
 msgid "Living around and inside the largest volcano in the Heartfangs, the Ashen's Maw, the drakes remained mostly unnoticed by the other races. Their innate flight allowed them to traverse the harsh terrain, passing from mountain to mountain with ease. The inner fire granted by their ancient forefathers, the mighty dragons, allowed them to brave the frigid heights of the Heartfangs. As the drakes lived through the generations, nothing ever seemed to change... "
 msgstr ""
 
 #. [part]
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:30
+#: Ashen_Hearts/macros/story_text.cfg:20
 msgid "But now, the might of the drakes is waning. Their inner flame has grown weak and their hearts are turning ashen."
 msgstr ""
 
-#. [side]: type=Inferno Drake, id=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:63
-msgid "King Menor IV"
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:30
+msgid "Departing from the volcano and following Uluthur, the drakes would soon be surprised by the foes that awaited them."
 msgstr ""
 
-#. [side]: type=Inferno Drake, id=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:68
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:50
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:55
-msgid "Menor IV"
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:40
+msgid "The gracious winds led Herkarth's group quickly to Snowthorn Vale."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:50
+msgid "Leaving Snowthorn Vale behind, Harkarth's group soon came across a giant salt lake in the west, where they found the wanderer in the midst of an unknown ritual."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:60
+msgid "Following the wanderer's cryptic advice, the drakes made haste toward the Earth's Crucible. The ancient temple soon appeared on the horizon."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:70
+msgid "The drakes descended into the darkness. The ancient walls spread around them, filled with dormant, archaic power, remnants of their mighty dragon ancestors. However, the dust lining the floors had been noticeably stirred, and fresh air flowed through the halls. Something was lurking in the dark, lying in wait for them."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:80
+msgid "Through the dark halls, the drakes followed the snaking river deeper into the temple. They descended farther and farther, to where the air first grew colder in the underground caverns, then warmer as the energies of the temple grew denser and denser. Eventually, they reached a large, ornate doorway, behind which the blazing energies of their ancestors burned brightly in their minds - radiant, but severed from their bodies. The drakes broke through the doors quickly and entered the great chamber."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:90
+msgid "With renewed fire, Herkarth and the other drakes accompanied Khazran back to the Ashen's Maw. They arrived just in time, right as the dwarvish army began its assault on the Maw."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:106
+msgid "The drakes' victory over the dwarves and return of the Dragonheart lead to what became known as the Ashen Ages. Between 674 YW and 760 YW, the Ashen's Maw, fueled by the combined magic of the Dragonheart and the Oaken's Stone, ceaselessly rained down ashes on the land below, covering the sky with pallid grey. As a result, large areas of the Northlands became uninhabitable to new settlers. The humans were forced to abandon their castles and cities and return to Wesnoth, while the dwarves dug deeper into the mountains in an effort to avoid the ashes. Thus, the reign of the mighty drakes was cemented."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:111
+msgid "The Dragonheart, Khazran returned to the depths below Lake Vrug. The former king of the Ashen's Maw, Menor IV, and a group of loyal drakes accompanied him to serve as the temple's new guardians. The once abandoned temple soon returned to its former glory as the sacred centerpiece of drake power, where the flames of the dragons flowed freely to the living drakes once more. This link has not weakened ever since Khazran's return."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:116
+msgid "With their newfound strength, the drakes struck fear into the hearts of their foes, either cowing them into submission or turning them into ashes. At their head, Menor V ruled over the Ashen's Maw and the surrounding Heartfangs, expanding the drakes' territory farther than it had ever gone before. And by his side, Uluthur continued to roam the Heartfangs until the end of his days."
+msgstr ""
+
+#. [part]
+#: Ashen_Hearts/macros/story_text.cfg:121
+msgid "Thus ends the tale of the drakes of the Ashen's Heart."
 msgstr ""
 
 #. [side]: type=Drake Flare, id=Luthir
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:107
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:112
+#. [side]: type=Drake Enforcer, id=Kerlarn
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:68
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:170
+msgid "Drakes"
+msgstr ""
+
+#. [side]: type=Drake Flare, id=Luthir
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:74
 msgid "Luthir"
 msgstr ""
 
-#. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:268
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:309
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:363
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:155
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:521
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:577
-msgid "Would you like to skip the cutscene?"
-msgstr ""
-
-#. [option]
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:271
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:312
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:366
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:158
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:185
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:524
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:580
-msgid "No"
-msgstr ""
-
-#. [option]
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:282
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:323
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:377
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:169
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:200
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:535
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:591
-msgid "Yes"
-msgstr ""
-
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:304
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:228
 msgid "Why have you come, Luthir? What do you want?"
 msgstr ""
 
 #. [message]: speaker=Luthir
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:309
-msgid "You have grown weak, <i>king</i> Menor. Your inner flame is as dim as the candle lights of men. Even the weakest of whelps could best you in combat. I have come to claim your throne for myself."
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:233
+msgid "You have grown weak, <i>King</i> Menor. Your inner flame is as dim as the candle lights of men. Even the weakest of whelps could best you in combat. I have come to claim your throne for myself."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:314
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:238
 msgid "What would you know about my strength? When the first dwarvish army marched toward our volcano, I was the one who held back their onslaught and ripped their leader in half with my bare claws. The Ashen's Maw would have been overrun without me!"
 msgstr ""
 
 #. [message]: speaker=Luthir
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:319
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:243
 msgid "These are just legends, Menor. Lies that you tell to pretend that you are worthy of the crown. But, I see through your trickery. You were merely a coward who got lucky when the opportunity to seize power presented itself."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:324
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:248
 msgid "You think I lie? Do you see this ancient rock I carry? They call it the Oaken's Stone. I took it from the dwarvish king when I slew him in the midst of his entire army. It is proof of my power. I have earned this crown and you have no right to question me."
 msgstr ""
 
 #. [message]: speaker=Luthir
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:329
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:253
 msgid "Hmph. No reign lasts forever, Menor. No matter your past deeds, your once burning heart has now become naught but ashes. You are pitiful and weak, a disgrace to our race. I challenge you, Menor. If you are truly so powerful, then stand your ground and fight! Fight, and I shall show you why I deserve to rule over Ashen's Maw."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:334
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:258
 msgid "I am no coward. I accept your challenge. May my loyal soldiers be merciful to you, because I will not."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:339
-msgid "Herkarth! You are the heir to my throne. Come and prove that you are worthy of becoming the next king of kings. Come and crush Luthir's foolish rebellion. Show them that the fires of the Menor still burn strong!"
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:263
+msgid "Herkarth! You are the heir to my throne. Come and prove that you are worthy of becoming the next king. Come and crush Luthir's foolish rebellion. Show them that the fires of the Menor still burn strong!"
 msgstr ""
 
 #. [message]: speaker=Luthir
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:344
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:268
 msgid "What? You are not even joining the battle yourself, Menor? The castle of lies you've built is truly falling apart."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:349
-msgid "His blood flows in my veins and his fire burns within me. How do you plan to fight the king of drakes if you can't even beat me?"
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:273
+msgid "His blood flows in my veins and his fire burns within me. How do you plan to fight the King of the drakes if you can't even beat me?"
 msgstr ""
 
 #. [message]: speaker=Luthir
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:354
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:278
 msgid "Pah! I shall cut through you like paper. Drakes! Halberds high!"
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:370
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:294
 msgid "He... he is right, Herkarth, but it is not only my inner fire. The fires of all drakes of Ashen's Maw have dimmed. Only yours still shines as brightly as those of our ancestors. Be at my side and fight in my name, for I cannot anymore."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:379
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:303
 msgid "Fear not, my king. It is an honour to fight for you. This rebellion shall not last long."
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:406
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:334
 msgid "Defeat Luthir"
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:410
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:338
 msgid "Protect Menor IV"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:414
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:512
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:464
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:289
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:556
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:41
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:387
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:785
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:893
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1128
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:342
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:610
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:476
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:273
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:537
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:362
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:583
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:811
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1083
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:41
 msgid "Herkarth dies"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:418
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:905
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1140
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:346
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:823
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1095
 msgid "Menor IV dies"
 msgstr ""
 
 #. [note]
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:423
-msgid "Any revolting drake that survives when Luthir is killed will join Herkarth. Their experience will be set to 16 XP."
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:351
+msgid "Any rebel drake that survives when Luthir is killed will join Herkarth."
 msgstr ""
 
 #. [message]: speaker=Luthir
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:439
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:369
 msgid "Your head will grace my new throne once I am done with you, Menor IV."
 msgstr ""
 
 #. [message]: speaker=Luthir
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:452
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:383
 msgid "Arrrghhhh!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:457
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:388
 msgid "King Menor. The head of the rebel is yours."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:465
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:396
 msgid "You thought the legends about my strength were false, Luthir? Allow me to disprove you."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:499
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:430
 msgid "The force of the blow sends Luthir's body flying into the lava below."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:511
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:443
 msgid "Is there anyone who still dares to challenge me?"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:532
-msgid "Impressed by the force of the king's attack, the remaining rebels lay down their weapons."
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:464
+msgid "Impressed by the force of the king's attack, the remaining rebels laid down their weapons."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:537
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:469
 msgid "As always."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:542
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:474
 msgid "Herkarth, I thank you for representing me so honourably."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:547
-msgid "It was my duty. I have sworn to you an oath of allegiance as unbreakable as the eternal ice of Snowthorn vale. I shall not go back on my vows."
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:479
+msgid "It was my duty. I have sworn to you an oath of allegiance as unbreakable as the eternal ice of Snowthorn Vale. I shall not go back on my vows."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:552
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:484
 msgid "Your crushing defeat of the rebels will cow the other drakes into quietly accepting my rule for now. But, one day, they will forget about today's battle and another will be sure to challenge me again. Alas, I cannot rely on you forever, Herkarth. Luthir spoke the truth... my fire has faded, and its weakness is spreading across the drakes like a disease."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:557
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:489
 msgid "It is only a fleeting ailment. You are merely ill."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:562
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:494
 msgid "I am afraid it is more than that. It feels as if my own lifeblood is floating away. My will to live is dying. I hope the same will not happen to you, Herkarth. You are the strongest of my descendants."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:567
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:499
 msgid "Then it is my duty to find the cause of this illness, but before that..."
 msgstr ""
 
-#. [event]
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:575
-msgid "Uluthur"
-msgstr ""
-
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:583
-msgid "Hail, king Menor IV! And hail, Herkarth, fire of Menor! A great army of Dwarves approaches our home!"
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:520
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:575
+msgid "Hail, King Menor IV! And hail, Herkarth, Fire of Menor! A great army of dwarves approaches our home!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:588
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:525
 msgid "Dwarves? At the Ashen's Maw? This cannot be... since the dawn of time, neither man nor dwarf has dared to wander through the Heartfangs and approach us at our very own volcano."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:593
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:530
 msgid "I swear that I speak the truth! Their axes are sharp and their armors are thick. And their beards, well, actually... one dwarf fell into the lava and his beard burned well."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:598
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:535
 msgid "If what you say is true, then they must sense our weakness. Herkarth..."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:603
-msgid "This time, it is not only my duty to you, king Menor. The dwarves threaten all of our lives and even the Ashen's Maw. We must defend our home. Uluthur, lead me to the dwarves."
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:540
+msgid "This time, it is not only my duty to you, King Menor. The dwarves threaten all of our lives and even the Ashen's Maw. We must defend our home. Uluthur, lead me to the dwarves."
 msgstr ""
 
-#. [scenario]: id=02_Aragan_the_Iron
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:4
-msgid "Aragan the Iron"
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:580
+msgid "Dwarves? At the Ashen's Maw? This cannot be... we have yet to dispatch the traitor Luthir. there will not be enough time to rally against the dwarves!"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:17
-msgid "Departing from the volcano, the drakes following Uluthur would soon be surprised by the foe that awaited them."
+#. [message]: speaker=Luthir
+#: Ashen_Hearts/scenarios/01_Inner_Flames.cfg:585
+msgid "Look at what your pride as King as cost you, Menor. If I were King, I would made those dwarves tremble in fear of what we are!"
 msgstr ""
 
 #. [side]: type=Dwarvish Ironbender, id=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:57
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:62
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:54
 msgid "Aragan"
 msgstr ""
 
 #. [side]: type=Dwarvish Steelclad, id=Borothin
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:81
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:86
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:96
 msgid "Borothin"
 msgstr ""
 
 #. [side]: type=Dwarvish Thunderguard, id=Thelomin
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:120
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:125
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:142
 msgid "Thelomin"
 msgstr ""
 
+#. [scenario]: id=02_Aragan_the_Iron
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:180
+msgid "Menor's Watch"
+msgstr ""
+
+#. [scenario]: id=02_Aragan_the_Iron
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:181
+msgid "Gateway to the Ashen's Maw"
+msgstr ""
+
+#. [scenario]: id=02_Aragan_the_Iron
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:182
+msgid "Ashen Flame Spire"
+msgstr ""
+
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:346
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:440
 msgid "Forsooth, it <i>is</i> the pesky dwarves. You didn't lie, Uluthur!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:351
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:445
 msgid "They have braved the freezing ice and steep mountains to reach our volcano. The cold does not treat them well."
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:356
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:450
 msgid "<i>*cough*</i>"
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:363
-msgid "Drakes! Ye gots somethin' tha' belongs to us. <i>*cough*</i> A stone. Tha Oaken's Stone. Ye know 'tis precious to us. <i>*cough*</i> Ye best return it at once!"
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:457
+msgid "Drakes! Ye gots somethin' tha' belongs to us. <i>*cough*</i> A stone. Tha Oaken's Stone. Ye know 'tis precious to us. <i>*cough*</i> Ye best return it at once! The Underearth King demands its return!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:368
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:462
 msgid "The stone of your forefather who dared to step on our land? It belongs to us now. You forfeited it the moment you lost to our king in battle."
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:373
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:467
 msgid "Ye dinna know wha' ya be goin' agains'. We <i>*cough*</i> be askin' ya nicely, once 'n only once."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:378
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:472
 msgid "No. Our king took the stone from you in honourable combat, even as you tried to invade our home. It is our trophy."
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:383
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:477
 msgid "Fine. We will wrest tha stone <i>*cough*</i> from the cold 'n ashen claws of yer dead king. <i>*cough*</i>"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:388
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:482
 msgid "You are making the same mistakes that your forefathers did. You have no hope of fighting us drakes. We are too powerful for your kind."
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:393
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:487
 msgid "Oh, are ya? Yer power be running dry, drake. <i>*cough*</i> It be just a matter o' time 'till tha stone belongs to us again. <i>*cough*</i>  Ye kinna stand against tha power o' me army in yer condition! Prepare <i>*cough*</i> ta face yer death! Axes up!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:400
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:494
 msgid "They know about our current weakness. How can that be?"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:405
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:499
 msgid "Dwarves? They have their thick noses everywhere. Perhaps they are spying on us."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:410
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:504
 msgid "Hmm. I am afraid there is more to this attack than what we see here."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:431
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:525
 msgid "They are already preparing their shield walls. Uluthur, fly across the Heartfangs and see if there are more dwarves. We should avoid combat if there are even more coming."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:436
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:530
 msgid "Hmmphhff, I was looking forward to roasting some dwarves. Oh well, I'm off then."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:465
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:560
 msgid "Drakes! We must stand our ground here! Conserve your inner fire and fight with your claws! To battle!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:492
-msgid ""
-"Ashen's Maw drakes has become united under an overwhelming threat. With each ashen flame united, Ashen's Maw volcano magical has risen temporay.\n"
-"Herkarth's units <b>+6 extra hit points each turn</b> on the central volcano."
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:587
+msgid "The Drakes of the Ashen's Maw have become united under an overwhelming threat. With numerous drakes all congregated at the Ashen's Maw, the magical energy of the volcano has risen temporarily. All drakes will heal <b>+6 HP each turn</b> on the central volcano."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:501
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:595
 msgid "<b>Protect the gateway</b>. Do not let any dwarf reach the Ashen's Maw."
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:508
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:602
+msgid "Defend the Ashen's Maw gateway (22,9)"
+msgstr ""
+
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:606
 msgid "Defeat Aragan"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:516
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:614
 msgid "Any dwarf unit reaches Ashen's Maw gateway (22,9)"
 msgstr ""
 
 #. [note]
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:521
-msgid "Herkarth's units heal 4 extra hit points each turn on the central volcano."
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:619
+msgid "Herkarth's units heal 6 HP each turn on the central volcano."
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:560
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:665
+msgid "<i>*cough*</i> I see ye near me, worm of the sky. I shall not yield without a fight. <i>*cough*</i>"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:704
+msgid "Speak, dwarf! Who told you about the fading of our flames?!"
+msgstr ""
+
+#. [message]: speaker=Aragan
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:709
+msgid "<i>*cough*</i> A bold tongue, ye have, drake. But a dwarf's words are like stone, too, and they shall endure when your threats have crumbled. <i>*cough*</i>"
+msgstr ""
+
+#. [message]: speaker=Aragan
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:728
 msgid "Ughhhh! <i>*cough*</i>"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:565
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:733
 msgid "Your life ends here, dwarf."
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:570
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:738
 msgid "It... <i>*cough*</i>... be not me life <i>*cough*</i>... that be ending... drake!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:575
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:743
 msgid "So you know about our inner fire?"
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:580
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:748
 msgid "Ha-ha- <i>*cough*</i> -ha!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:585
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:753
 msgid "The timing of your attack... you <i>do</i> know all about this! Tell me what you know and I might spare your life!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:606
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:771
 msgid "Herkarth, Herkarth, that's not how you get a dwarf to talk. Watch."
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:613
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:778
 msgid "Och!"
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:640
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:805
 msgid "Let me down, drake!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:646
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:811
 msgid "You better tell us everything! Who sent you? Is it you who inhibits our inner fire?"
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:651
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:816
 msgid "I <i>*cough*</i>... I be nae tellin' ye nothin'! Now <i>*cough*</i> let me... down!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:657
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:822
 msgid "Fine."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:662
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:827
 msgid "Herkarth, these stoneheads just won't learn! Fortunately, lava melts stone, right?"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:678
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:843
 msgid "Now, dwarf, spew out your foul profanities! What are you doing to our inner flame?"
 msgstr ""
 
 #. [message]: speaker=Aragan
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:687
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:852
 msgid "Nae <i>*cough*</i> one word, <i>*cough*</i> drake!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:693
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:858
 msgid "What a waste."
 msgstr ""
 
+#. [message]
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:906
+msgid "Aragan's slain! Retreat! The dragon spawn are too mighty!"
+msgstr ""
+
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:734
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:915
+msgid "The fleeing dwarves cannot run fast. Drakes, pursue and hunt them down!"
+msgstr ""
+
+#. [message]
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:923
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:1036
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:570
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:830
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1039
+msgid "As you command, Fire of Menor!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:930
 msgid "Hmmphff. A dwarf would rather throw away his life than tell us what they're doing to our inner fire. He did show us that they have an iron will and are willing to die for their greater good. But what is the greater good that they seek?"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:739
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:935
 msgid "We have to find out. Our inner flame is slowly dying. If we can't stop the process..."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:744
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:940
 msgid "I have not yet heard of drakes without an inner fire. It will definitely be our end."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:749
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:945
 msgid "They are hiding something from us. What did you see during your flight across the mountains, Uluthur?"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:754
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:950
 msgid "No dwarves, not a single one. It seems like the earth itself devoured them."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:759
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:955
 msgid "... but I saw a group of men wandering through Snowthorn Vale."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:764
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:960
 msgid "A group of men? Men are too weak to survive in the Heartfangs."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:769
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:965
 msgid "They were hidden by the shadows of thick cloaks, but it seemed that light was emerging from their very bodies. Their skin was as pale as the moon. I saw them appear when King Menor IV's inner fire began to dim. These ones were carrying a statue of a man."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:774
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:970
 msgid "So wizards and madmen are coming to the Heartfangs? Are you sure it was not some lost savages?"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:779
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:975
 msgid "No, no. It seemed like they were searching for something. They were floating like snow through the valley. No creature dared approach them. It was very strange, but they were moving with purpose."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:784
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:980
 msgid "Then they might be the right ones to help us with our problem. Lead us to the valley, Uluthur."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:815
-msgid "Dwarf after Dwarf has been pouring into Ashen's Maw. They establish several shield wall formations marching and overwhelming drake's home. With Oaken's Stone and Ashen's Maw vocalno forge, Ashen's Maw has become one of the greatest kingdom of dwarvenkind."
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:1015
+msgid "Dwarf after dwarf has poured into the Ashen's Maw. They have established several shield wall formations, marching and overwhelming the drakes' home. With the Oaken Stone and Ashen's Maw volcano forge, the kingdom has become one of the greatest of dwarvenkind."
 msgstr ""
 
-#. [scenario]: id=03_Snowthorn_Vale
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:5
-msgid "Snowthorn Vale"
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:1028
+msgid "We should make haste and dispatch the leader of the dwarves!"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:19
-msgid "The gracious winds led Herkarth's group quickly to Snowthorn Vale."
+#. [message]: speaker=Aragan
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:1057
+msgid "<i>*cough*</i> Hark, me kin! Our blades ring true! <i>*cough*</i> These flying vermin, they think to keep our stone from us? <i>*cough*</i> They will know the wrath of the mountain folk! We shall crush them, as we crush the rock! <i>*cough*</i> For our King, and for the glory of our halls!"
 msgstr ""
 
-#. [side]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:59
-msgid "Hunters"
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/02_Aragan_the_Iron.cfg:1062
+msgid "We have delayed far too long! There is even more of them now!"
 msgstr ""
 
 #. [side]: type=Troll Shaman, id=Grumm
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:110
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:115
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:117
 msgid "Grumm"
 msgstr ""
 
 #. [side]: type=Drake Enforcer, id=Kerlarn
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:169
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:174
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:177
 msgid "Kerlarn"
 msgstr ""
 
 #. [side]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:195
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:199
 #: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:97
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:231
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:146
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:217
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:150
 msgid "Monsters"
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:208
-msgid "Drake Fighter++ or Drake Flare++"
-msgstr ""
-
-#. [event]
-#. [side]: type=Wanderer, id=Khazran
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:223
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:55
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:592
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:716
-msgid "Khazran"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:227
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:231
 msgid "Brummel"
 msgstr ""
 
-#. [event]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:235
-msgid "Flaming Sword"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:235
-msgid "This mighty sword increases melee damage by +3. This flaming sword can only be used by drakes with fiery hearts and natural leadership, or great prowess with blades."
-msgstr ""
-
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:394
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:361
 msgid "There, look!"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:405
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:372
 msgid "Illa rhaman kha thuuul?"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:410
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:377
 msgid "In the name of Menor!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:430
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:397
 msgid "He disappeared into the valley!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:435
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:402
 msgid "What was <i>that</i>?"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:440
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:407
 msgid "By the name of the Ashen's Maw, I swear I saw six of them during my flight! Something must have happened to them!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:445
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:412
 msgid "We have to follow the last one, then. Quickly!"
 msgstr ""
 
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:425
+msgid "Snowthorn Valley seems eeriely quiet. The Drakes of Kerlarn are within their territory, hardly venturing from it. The Trolls appear preoccupied with their younglings. We might be able to move past mostly unhindered."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:430
+msgid "It appears so. However, I surmise it would be a good opportunity for many of us to gain some battle experience. We many consider hunting down the trolls."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:435
+msgid "Additionally, We should not dismiss the possibility of being flanked by the dwarves. Thus, we must advance relentlessly and cautiously."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:453
+msgid "Dis troll turf! Leave, Drake!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:458
+msgid "Do not hinder us, stoneborn!"
+msgstr ""
+
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:460
-msgid "Herkarth reaches the southern signpost"
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:472
+msgid "Herkarth reaches the marker (10,47)"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:468
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:293
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:560
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:45
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:391
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:789
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:901
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1136
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:480
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:277
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:541
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:366
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:587
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:819
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1091
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:45
 msgid "Uluthur dies"
 msgstr ""
 
 #. [note]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:473
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:298
-msgid "Drakes melt ice tiles that they move onto."
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:485
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:282
+msgid "Drakes melt ice tiles that they land onto."
 msgstr ""
 
 #. [note]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:477
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:488
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:285
+msgid "Moves used by Drakes to melt ice cannot be undone."
+msgstr ""
+
+#. [note]
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:492
 msgid "Trolls usually wander inside their territories leading their young whelps"
 msgstr ""
 
 #. [message]: speaker=Kerlarn
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:529
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:546
 msgid "I told you to stay out of our territory, yet you refuse to listen! Once we're done with you, your pesky skulls will mark our borders as an example for any other trespassers! Drakes! Halberds high!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:534
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:551
 msgid "It seems like they're serious about fighting us! We should stay away from them. Their warriors appear to be more experienced than ours. We should just leave Snowthorn Vale..."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:539
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:556
 msgid "... or we could lure the dwarves to those drakes, wait for them to fight each other, and steal that magical flaming sword! It certainly isn't of use to them right now, is it? They're not doing anything here, but we... we have a task to do!"
 msgstr ""
 
 #. [message]: speaker=Kerlarn
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:569
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:589
 msgid "Herkarth! What are you doing all the way out here?! We haven't seen you for quite some time. Come to my castle, I want to show you something!"
 msgstr ""
 
 #. [message]: speaker=Kerlarn
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:574
-msgid "Drakes of Menor! Stay out of our territory or we will not hesitate to attack! We have unlocked the secret of smithing enchanted weapons, and this secret stays with us! Leave!"
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:594
+msgid "Drakes of Menor! Stay out of our territory or we shall not hesitate to attack! We have unlocked the secret of smithing enchanted weapons, and this secret stays with us! Leave!"
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:586
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:607
 msgid "Cragdin"
 msgstr ""
 
 #. [message]: speaker=Cragdin
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:624
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:645
 msgid "There they be! Load yer thundersticks!"
 msgstr ""
 
 #. [message]: role=excited_thunderer
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:634
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:655
 msgid "Locked and loaded!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:639
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:660
 msgid "Kraaagh, dwarves! The earth must've spewed them out!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:644
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:665
 msgid "Quickly! Once we've left this valley, we can outpace them!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:661
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:682
 msgid "Gryphon Scouts are able to move after attacking."
 msgstr ""
 
 #. [message]: speaker=Cragdin
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:674
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:696
 msgid "The... crown... it will... be ours..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:700
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:719
 msgid "Huh, what's this?"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:718
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:737
 msgid "Ouch!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:723
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:742
 msgid "Hey, stand still!"
 msgstr ""
 
-#. [event]
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:726
-msgid "Elri"
-msgstr ""
-
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:766
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:789
 msgid "Gotcha!"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:771
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:794
 msgid "Uff."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:776
-msgid "Seems like meat's back on the menu, boys!"
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:799
+msgid "Seems like meat's back on the menu!"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:781
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:804
 msgid "..."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:786
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:809
 msgid "Not very talkative, hmm? Fine, once our fires roast you, we can listen to you scream."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:791
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:814
 msgid "Hold on! What is an elf doing in this valley?"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:796
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:819
 msgid "I am searching for a traitor that disobeyed the orders of the eldest of the Lintanir forest. I have been sent to find him and end his life."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:801
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:824
 msgid "Lintanir forest? That's so far away. There's no way you made it here..."
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:806
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:829
 msgid "... all alone? I am not. The faeries' will guides me."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:811
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:834
 msgid "Can you smell it, Herkarth? Chicken. That's how she will smell once she's roasted."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:816
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:839
 msgid "She is not a danger. At least not to us."
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:821
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:844
 msgid "My kin and I don't care about happenings outside of our woods. I seek only the traitor... we cannot let him so blatantly disobey the decrees of our elders."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:826
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:849
 msgid "Where is he?"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:831
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:854
 msgid "I believe the traitor is in the western foothills of these mountains."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:836
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:859
 msgid "Then maybe you should join us. We are also heading west and a little extra help would benefit our cause."
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:845
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:868
 msgid "I do not care about your cause. I have my own task to do. But, if joining your group would ease my path westward, then I shall accede."
 msgstr ""
 
+#. [message]: speaker=Elri
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:882
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:714
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1052
+msgid "Nooo! The blood price on my blade has not been quenched!"
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:892
+msgid "Herkarth, we must hurry! If we spend too much time here, we might lose sight of the pale one!"
+msgstr ""
+
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:866
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:902
+msgid "We have delayed here far too long! Now, we have lost sight of the pale one!"
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:906
+msgid "This is a hopeless quest now!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:925
 msgid "We've made it safely through Snowthorn Vale. Now let's try to catch up to the pale one."
 msgstr ""
 
-#. [scenario]: id=04_The_Wanderer
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:5
-msgid "The Wanderer"
+#. [message]: speaker=Kerlarn
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:954
+msgid "You were warned, Drakes of Menor! Now, you shall face our wrath!"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:18
-msgid "Leaving Snowthorn Vale behind, Harkarth's group soon came across a giant salt lake in the west, where they found the wanderer in the midst of an unknown ritual."
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:958
+msgid "Kerlarn, you must see reason! The drakes must stand united against the stoneheads!"
+msgstr ""
+
+#. [message]: speaker=Kerlarn
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:977
+msgid "Prepare to die, stoneheads! Drakes, attack!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:995
+msgid "The Yeti is an apex predator of the Snowthorn Vale. Engage with caution lest you find yourself getting slammed to submission."
+msgstr ""
+
+#. [message]: speaker=Cragdin
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:1013
+msgid "Submit to yer masters, lizard!"
+msgstr ""
+
+#. [message]: speaker=Kerlarn
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:1017
+msgid "Pathetic stonehead! You dare challenge us, the Drakes of Kerlarn?! We shall bathe in your blood!"
+msgstr ""
+
+#. [message]: speaker=Cragdin
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:1035
+msgid "Leave that beast be! We be huntin' drakes here!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:1053
+msgid "Outta me way, dumb rockwalker!"
+msgstr ""
+
+#. [message]: speaker=second_unit
+#. this is a reference to one Dwarven Kingdom scenario
+#: Ashen_Hearts/scenarios/03_Snowthorn_Vale.cfg:1059
+msgid "Foul dwarf! Trolls shall avenge our murdered kin!"
 msgstr ""
 
 #. [side]: type=Wanderer, id=Khazran
-#. [unit_type]: id=Wanderer, race=drake
-#. [unit_type]: id=Porter, race=drake
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:50
-#: Ashen_Hearts/units/wanderer.cfg:5
-#: Ashen_Hearts/units/wanderer.cfg:86
+#. [unit_type]: id=Wanderer, race=hidden_race
+#. [unit_type]: id=Porter, race=hidden_race
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:49
+#: Ashen_Hearts/units/The_Wanderer.cfg:5
+#: Ashen_Hearts/units/The_Wanderer.cfg:100
 msgid "Wanderer"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:195
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:169
 msgid "Hold there, pale one! Stand still!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:200
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:174
 msgid "He does not listen. Look!"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:208
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:182
 msgid "A thel mir katal."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:219
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:193
 msgid "Even the yetis fear him!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:266
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:239
 msgid "He's gone!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:271
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:244
 msgid "We have to find him. He must be here somewhere."
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:285
-msgid "Find the wanderer"
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:265
+msgid "Solve the Puzzle of the Icy Lake"
+msgstr ""
+
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:269
+msgid "Find the Wanderer"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:314
-msgid "Look at the lake! An image of the wanderer is flickering in the waters!"
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:303
+msgid "Look at the frozen lake! An image of the wanderer is flickering in the icy waters!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:319
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:308
 msgid "But... I do not see anything that could be the source of the reflection."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:324
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:313
 msgid "Then it must be a spell. Quickly, melt the ice to draw him out!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:334
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:325
 msgid "We don't know what will happen when the wanderer returns. Pay attention and be ready to fight!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:339
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:330
 msgid "It may be a good idea to station some drakes around the lake."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:379
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:335
+msgid "Excellent thinking. We can react effectively to any follow up tricks that may appear after melting the ice."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:376
 msgid "Look!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:396
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:393
 msgid "Get away from there!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:469
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:466
 msgid "Stand still, wizard! We must speak with you!"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:474
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:471
 msgid "Her- Herkarth, he- help me."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:479
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:476
 msgid "How?"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:484
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:481
 msgid "I am sorry. But... I have to be sure..."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:528
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:502
 msgid "Illusions! That was the group of pale ones you were talking about before, Uluthur!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:533
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:507
 msgid "What's going on here?!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:538
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:512
 msgid "They're coming at us! Quickly, banish the illusions, but don't harm the real wanderer!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:552
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:533
 msgid "Banish all illusions"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:564
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:545
 msgid "The wanderer dies"
 msgstr ""
 
 #. [note]
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:569
-msgid "A new illusion is created by the wanderer on each turn."
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:550
+msgid "A new illusion is created by the wanderer every turn."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:601
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:582
 msgid "You are surrounded, pale one!"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:613
-msgid "I had to do this. I've finally found that which I have been seeking. You are worthy, my brothers."
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:594
+msgid "I had to do this. I've finally found that which I have been seeking. You are worthy, my descendants."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:618
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:599
 msgid "What? What do you mean?"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:623
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:604
 msgid "I know of your ailment, Herkarth. Your inner fire is soon to dim, just like the fire of the rest of your kin, just as the flames of your king are dying."
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:628
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:609
 msgid "The connection you once held with your ancestors is lost. The blood of the dragons no longer flows in your veins. Their heat is banished from your bodies. The link between you and them has been disrupted."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:633
-msgid "Dragons? Yes, we are the descended from them. But what is this link that you speak of?"
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:614
+msgid "Dragons? Yes, we are descended from them. But what is this link that you speak of?"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:638
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:619
 msgid "It is a bond that is both magical and physical, a force of sorcery and blood. In our world, there exist beings that are both dragon and drake, of old and new fire simultaneously. They lie hidden, invisible to the eyes of the uninitiated, but they are the key."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:643
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:624
 msgid "I do not understand. How can the link be brought back?"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:648
-msgid "You must find your heart, Herkarth. Seek the place filled with the leader's fire and the warrior's blood. It is protected by order and endangered in war, perpetually engulfed by the flames of the Inferno. It lies in a temple descended from ancient times. The Earth's Smith."
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:629
+msgid "You must find your heart, Herkarth. Seek the place filled with the leader's fire and the warrior's blood. It is protected by order and endangered in war, perpetually engulfed by the flames of the Inferno. It lies in a temple descended from ancient times. The Earth's Crucible."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:653
-msgid "The Earth's Smith? I've heard about that legendary place. History tells us that it is a temple built by our forefathers, a place with an inherent connection to the dragons. It is a hallowed place that was defended by our best warriors in times past."
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:634
+msgid "The Earth's Crucible? I've heard about that legendary place. History tells us that it is a temple built by our forefathers, a place with an inherent connection to the dragons. It is a hallowed place that was defended by our best warriors in times past."
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:658
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:639
 msgid "It was once so. However, as time passed, your ancestors lost control of this temple to relentless attacks and were forced to seal it shut. Now, it lies abandoned and unguarded, open to assault from hostile forces."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:663
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:644
 msgid "Then it is the dwarves that are desecrating these sacred grounds and turning its energies against us! Those foul stoneheads!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:668
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:649
 msgid "Uluthur, warm your wings! At dawn, we fly to the temple!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:673
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:654
 msgid "And you, pale one, will you follow us into the depths?"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:678
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:659
 msgid "I... cannot help you now. But when you have stepped into the darkness, we will meet again."
 msgstr ""
 
-#. [scenario]: id=05_Runic_Gate
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:5
-msgid "Runic Gate"
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:689
+msgid "Oh, no! We have allowed the wanderer to die!"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:18
-msgid "Following the wanderer's cryptic advice, the drakes haste toward the Earth's Smith. The ancient temple soon appeared on the horizon."
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:727
+msgid "I no longer see the flickering reflection!"
 msgstr ""
 
-#. [objective]: condition=win
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:36
-msgid "Find the entrance to the temple with Herkarth"
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:732
+msgid "We must have failed some trial the wanderer tested us on!"
 msgstr ""
 
-#. [note]
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:58
-msgid "There are 3 less durable walls for Drake Thrasher or Drake Enforcer to destroy."
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:737
+msgid "Then this quest has ended in failure..."
 msgstr ""
 
-#. [side]: type=Dwarvish Runemaster, id=Kulkruldin
-#. [side]: type=Dwarvish Lord, id=Krokkendol
-#. [side]: type=Elvish Sharpshooter, id=Ilaindil
-#. [side]: type=Mermaid Siren, id=Elysia
-#. [side]: type=Dwarvish Lord, id=Bromdindol
-#. [side]: type=Dwarvish Runemaster, id=Ber
-#. [side]: type=Mermaid Siren, id=Aylarna
-#. [side]: type=Dwarvish Runemaster, id={LEADER_ID}
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:84
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:127
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:165
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:205
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:52
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:88
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:110
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:85
-msgid "Temple Guardians"
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:747
+msgid "I had to be sure... However, it seems that... You are not worthy."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/04_The_Wanderer.cfg:763
+msgid "The wanderer has disappeared! We have failed the trail!"
 msgstr ""
 
 #. [side]: type=Dwarvish Runemaster, id=Kulkruldin
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:89
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:54
 msgid "Kulkruldin"
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, id=Krokkendol
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:132
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:98
 msgid "Krokkendol"
 msgstr ""
 
 #. [side]: type=Elvish Sharpshooter, id=Ilaindil
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:170
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:137
 msgid "Ilaindil"
 msgstr ""
 
 #. [side]: type=Mermaid Siren, id=Elysia
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:210
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:182
 msgid "Elysia"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:459
-msgid "Here it is, the temple of our ancestors! It is indeed sealed, but not by the sorcery of our forefathers. Something else blocks the entrance."
+#. by "his Fire", I meant the 'Fire of Menor'. That is, of this present time, only Menor IV and Herkarth know of the location of this temple.
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:489
+msgid "Here it is, the temple of our ancestors! The location of this temple is sacred. Only the reigning Menor and his Fire know of this location, as it has been passed from generation to generation. Our ancestors once defended this temple with pride and ferocity. Maybe "
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:494
+msgid "Many generations have passed since it had been sealed by the sorcery of our forefathers. The foul stoneheads must have forced their way into the temple and done something to sever the link between us and the dragons."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:499
+msgid "I fear that may be the case. We must not delay, friend."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:504
+msgid "Onwards!"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:474
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:523
 msgid "I sense the presence of the traitor. Help me find him, so that I may end his life."
 msgstr ""
 
-#. [objective]: condition=win
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:480
-msgid "Optional: Elri finds the traitor and kills him"
-msgstr ""
-
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:506
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:547
 msgid "In the name of Naia, the drakes are approaching! We must not let them enter the temple, lest they awaken the one inside! Hold them back!"
 msgstr ""
 
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:552
+msgid "What is this? The merfolk are here, so far from their homes?"
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:559
+msgid "Centuries have passed and yet they still bear the grudges of their ancestors against us. They certainly wish for our destruction."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:564
+msgid "If they are against us, we have no choice but to force their withdrawal from here. Do not hold back."
+msgstr ""
+
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:524
-msgid "By Wesmere, the drakes return! May the goddess of the wind guide our arrows into the ashen hearts of these beasts! Slay them all!"
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:607
+msgid "By Wesmere, the drakes have arrived! May the sylphs guide our arrows into the ashen hearts of these beasts! Slay them all!"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:535
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:618
 msgid "These must be the traitor's followers."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:540
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:623
 msgid "They seek to attack and bar our path to the temple. And they are of your kind. Are you sure we can trust you, elf?"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:545
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:628
 msgid "Your temple is not of concern to us elves. I have already told you, my goal is to hunt a traitor who has violated our laws and disobeyed the orders of our elders. I seek to make him pay in blood, no less, no more. It is not my task, nor my place to interfere with the matter of your temple."
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:550
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:633
 msgid "Ilaindil is the traitor's name. Let me find him and claim the debt of blood that he owes the Lintair elves. You may do whatever you must after."
 msgstr ""
 
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:638
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:649
+msgid "Elves and dwarves...united against us? What events have transpired beyond our knowledge that have led them to put aside their centuries old hostilities?"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:644
+msgid "The elves seek to attack and bar our path to the temple."
+msgstr ""
+
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:570
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:670
 msgid "Kulkruldin, tha drakes be here! We need reinforcements! Dwarves, fortify tha walls! Shields high!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:575
-msgid "Those pesky stoneheads have fortified the walls and the spear-wielding ones defend them with their shields. Perhaps our <b>enforcers and thrasher</b> can break through, or perhaps we can find another way around."
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:675
+msgid "Those pesky stoneheads have fortified the walls and the spear-wielding ones defend them with their shields. Perhaps our <b>enforcers and thrashers</b> can break through, or perhaps we can find another way around."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:588
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:698
 msgid "These stoneheads are very resilient. Their runic magic must be reinforcing their shields. We will need something with more impact to break through them."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:602
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:715
 msgid "Look there, those walls are less durable! Our thrashers or enforcers can probably break through them with their rams!"
 msgstr ""
 
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:763
+msgid "This was effortless! We can pre-emptively strike at the dwarves now!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:808
+msgid "The wall has been smashed to dust!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:826
+msgid "Look! The cave wall here is weak! Our thrashers or enforcers can probably break through them with their rams!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:834
+msgid "What an advantageous location! We can probably sneak in to the temple through here!"
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:839
+msgid "An amazing find, indeed!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:884
+msgid "This seems to lead into a considerably sized chamber. I think the temple entrance is somewhere here!"
+msgstr ""
+
 #. [message]: speaker=Ilaindil
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:739
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:902
 msgid "Ah... a bloodmaiden... they sent you... to find me?"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:744
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:907
 msgid "The elders did, Ilaindil. Your blood is demanded as payment for your crimes."
 msgstr ""
 
 #. [message]: speaker=Ilaindil
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:749
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:912
 msgid "What... have I done... to deserve this?"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:754
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:917
 msgid "You know what you have done, traitor to the elves of Lintanir. Your end shall be here."
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:774
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:938
 msgid "I have completed my task and must return to Lintair forest to report my success to the elders. Our paths part here."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:779
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:943
 msgid "It was an honour to fight at your side."
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:784
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:948
 msgid "Drakes, you aided me in my duty. As a token of appreciation, take my amulet."
 msgstr ""
 
-#. [event]
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:787
-msgid "Amulet of Elri"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:787
-msgid "This unique amulet grants +15hp, +2 moves, +3 damage per strike. "
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:787
-msgid "This amulet is a unique artefact that was granted to the bloodmaiden Elri in her hunt of Ilaindil, an elvish rebel who betrayed the elves of Lintair forest."
-msgstr ""
-
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:807
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:958
 msgid "Farewell."
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:838
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:992
 msgid "No! You killed him! The blood price placed on Ilaindil's head was for my blade, and my blade only. By taking my quarry from me, you have taken his mark upon yourselves. Now your blood will dye the rivers red!"
 msgstr ""
 
+#. [message]: speaker=Ilaindil
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1005
+msgid "Ah... Slain by... Drakes... I should... not have... allied with the... dwarves..."
+msgstr ""
+
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:863
-msgid "That's the entrance, let's go!"
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1010
+msgid "The elves have been defeated. We should not delay any further and resume our advance towards the temple!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1032
+msgid "It grieves me to take the life of a former ally, but she left us little choice."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1070
+msgid "This is the entrance, let's go!"
 msgstr ""
 
 #. [message]: speaker=Elri
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:878
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1086
 msgid "I can not join you. Ilaindil won't be inside the temple. I must seek him elsewhere."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:889
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1097
 msgid "Hmmph."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1044
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1126
+msgid "Here, is the entrance. I fear leaving the dwarves unscatched here while we descend into the temple, is not the smartest of moves."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1131
+msgid "What do you suggest, Herkarth?"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1136
+msgid "We defeat them here so that they do not attack us from the rear."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1184
 msgid "Aha! These runes have the ability to open the gates!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1074
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1214
 msgid "Now we can enter the fortress! Forward!"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1080
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1236
 msgid "This rune looks like it has something to do with the gates."
 msgstr ""
 
-#. [scenario]: id=06_Tears_of_the_Heartfangs
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:5
-msgid "Tears of the Heartfangs"
+#. [message]: speaker=Elysia
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1250
+msgid "You may have defeated me, drake. However, you will not have same luck with my sister, Aylarna. Your kind must be not allowed to reach the temple depths!"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:18
-msgid "The drakes descended into the darkness. The ancient walls spread around them, filled with dormant, archaic power, remnants of their mighty dragon ancestors. However, the dust lining the floors had been noticeably stirred, and fresh air flowed through the halls. Something was lurking in the dark, lying in wait for them."
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1255
+msgid "You oppose us for the wrong reasons, merfolk. We have never borne any ill will towards you. We only wish to reclaim our temple and reawaken our dying flames."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1270
+msgid "I hae fallen an' failed tha duty bestowed upon me by tha Underearth King!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1304
+msgid "Oh, nae! tha drakes cannot be allowed ta enter their temple!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1341
+msgid "Be Careful. I know this war tactic. The treacherous stoneheads have placed runes here and they will explode if you are within reach. Only trigger them when you absolutely have to."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1351
+msgid "We have secured the region and suppressed all enemies."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1356
+msgid "If we were not so preoccupied with our mission, I would say that you are the very first of the Fires of Menor to have done so in many centuries."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1419
+msgid "Herkarth, I believe we should be focusing on finding the temple entrance right about now."
+msgstr ""
+
+#. [message]
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1481
+msgid "We hae returned! Ah, tha drakes be here! let us rid Knalga o' their accursed kind! Onwards!"
+msgstr ""
+
+#. [message]
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1486
+msgid "For tha Underearth King!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/05_Runic_Gate.cfg:1491
+msgid "Curses! We have delayed far too long! The stoneheads are have surrounded us! We shall all be wiped out before even setting foot inside the temple!"
 msgstr ""
 
 #. [side]: type=Dwarvish Lord, id=Bromdindol
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:57
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:54
 msgid "Bromdindol"
 msgstr ""
 
 #. [side]: type=Dwarvish Runemaster, id=Ber
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:93
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:91
 msgid "Ber"
 msgstr ""
 
 #. [side]: type=Mermaid Siren, id=Aylarna
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:115
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:116
 msgid "Aylarna"
 msgstr ""
 
-#. [event]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:166
-msgid "Drake Arbiter statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:217
-msgid "Drake Thrasher statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:220
-msgid "Drake Enforcer statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:223
-msgid "Drake Warden statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:226
-msgid "Sky Drake statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:229
-msgid "Drake Flare statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:232
-msgid "Inferno Drake statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:281
-msgid "Unknown statue"
-msgstr ""
-
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:371
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:346
 msgid "We're inside! So now we need to find the great chamber. Any idea where we should go?"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:376
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:351
 msgid "Legends say that the great chamber lies at the deepest spot of the temple, where our connection with our ancestors is the strongest. The flowing water shall lead us there."
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:383
-msgid "Follow the river and find the entrance to the great chamber with any unit (marked by a signpost)"
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:358
+msgid "Follow the river and find the entrance to the great chamber with any unit"
+msgstr ""
+
+#. [note]
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:377
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:598
+msgid "A neutral Time-of-Day schedule is in effect."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:408
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:439
 msgid "Herkarth! This statue's eyes are moving! He is alive!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:413
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:453
 msgid "Has the musty air of this temple gone to your head, Uluthur? You are already hallucinating!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:418
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:458
 msgid "No! No! I swear he is alive! Perhaps there is a way to free him?"
 msgstr ""
 
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:477
+msgid "There seems to have been an <b>Arbiter</b> statue here. Now, it's just a pile of rubble."
+msgstr ""
+
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:438
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:499
 msgid "When the Arbiter moved onto the remains of the statue, he slowly began to turn to stone. It was not long before he was petrified completely, sent to join the other statues of the gallery."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:460
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:521
 msgid "A bloodcurdling roar echoed through the halls."
 msgstr ""
 
 #. [message]: speaker=Malkrath
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:465
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:526
 msgid "I am Malkrath, protector of these ancient halls. Who dares invade my ward?"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:470
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:531
 msgid "It is we who have roused you from your sleep, Malkrath. Dwarven runemasters have desecrated these holy halls, severing our connection with the dragons. Our inner flame slowly dims without this link - we will die if we do not stop the stoneheads."
 msgstr ""
 
 #. [message]: speaker=Malkrath
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:475
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:536
 msgid "It is my duty to protect this temple from any and all intruders. Fight together with me so that we may cleanse this place of the defilers!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:480
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:541
 msgid "We are glad to have you at our side."
 msgstr ""
 
 #. [message]: speaker=unit
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:496
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:558
 msgid "This path leads to the great chamber! Let us go!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:527
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:590
 msgid "Hold on! What... what is that?"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:532
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:596
 msgid "This is the work of dwarvish craftsmanship! It appears to be fashioned in the likeness of the head of a dragon."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:537
-msgid "They likely used this ram to break the seals protecting our temple. The waters of the Heartfang river must have caught it in their powerful current."
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:602
+msgid "They likely used this ram to break the seals protecting our temple. It must have gotten caught in the strong current of the Heartfang River."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:542
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:608
 msgid "Those pesky dwarves imitate our very own ancestors to break into our holiest shrine! These vile stoneheads! We will not let them get away with this!"
 msgstr ""
 
+#. [message]
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:619
+msgid "We should approach with caution. The stoneheads might have done something to it."
+msgstr ""
+
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:548
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:640
 msgid "Suddenly, the earth beneath Herkarth's group began to crumble."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:553
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:645
 msgid "Its eyes are glowing! It must be enchanted with runic magic! Halberds high, we must prepare to fight!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:588
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:678
 msgid "Bring it down!"
 msgstr ""
 
 #. [message]: speaker=IzMulchzaf
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:600
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:691
 msgid "The magic... forever binding... destined to destroy... will my thralldom finally end?"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:614
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:701
 msgid "It seems that the dwarves bound a soul to this mechanical dragon. His consciousness still remains within it, though I cannot hear him speak directly to me."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:619
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:706
 msgid "Fear not, whoever you are! We will find a way to free you from your prison! Let us take the head of the mechanical dragon with us."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:624
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:711
 msgid "This battle was difficult and we have sustained many losses. But we must not fall to despair now, for we have still to reach the great chamber and rid our sacred temple of the defiling stoneheads!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:643
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:731
 msgid "Once again, they use these Gryphons! Be careful, they can outmaneuver us!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:653
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:741
 msgid "Gryphons are able to move after attacking."
 msgstr ""
 
-#. [side]: type=Dragonheart, id=Khazran
-#. [scenario]: id=07_Dragonheart
-#. [unit_type]: id=Dragonheart, race=drake
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:64
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:19
-#: Ashen_Hearts/units/dragonheart.cfg:5
-msgid "Dragonheart"
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:761
+msgid "What do we hae here?! Tha drakes have managed ta enter tha temple! We must nae let them reach tha depths. Ready tha thundersticks!"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:32
-msgid "Through the dark halls, the drakes followed the snaking river deeper into the temple. They descended farther and farther, to where the air first grew colder in the underground caverns, then warmer as the energies of the temple grew denser and denser. Eventually, they reached a large, ornate doorway, behind which the blazing energies of their ancestors burned brightly in their minds - radiant, but severed from their bodies. The drakes broke through the doors quickly and entered the great chamber."
+#. [message]: speaker=second_unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:766
+msgid "It's the damned stoneheads! They are here!"
 msgstr ""
 
-#. [side]: type=Dragonheart, id=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:69
-msgid "???"
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:785
+msgid "You wretched trash! You shall pay dearly for desecrating our sacred temple!"
 msgstr ""
 
-#. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:183
-msgid "Sacrifice this drake?"
+#. [message]: speaker=second_unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:790
+msgid "Bring it on, ye overgrown lizard!"
 msgstr ""
 
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:327
-msgid "I am free once more!"
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:809
+msgid "By Naia, the drakes have entered the temple! We must not let them advance any further!"
 msgstr ""
 
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:335
-msgid "Your flames are mine!"
-msgstr ""
-
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:402
-msgid "Herkarth! The age of drakes is upon us! We, the descendatns of fire, shall enslave all others and rule the world!"
-msgstr ""
-
-#. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:407
-msgid "The fire burns stronger than ever!"
-msgstr ""
-
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:412
-msgid "Forsooth! And we shall have our revenge on the dwarves for their vile deception! They march toward the Ashen's Maw now, hoping to conquer our home, but it is there that we will burn them to ashes!"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:439
-msgid "Fire Drake? Inferno Drake? Armageddon Drake? statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:443
-msgid "Inferno Drake? Armageddon Drake? statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:447
-msgid "Drake Arbiter? Drake Warden? statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:450
-msgid "Drake Thrasher? Drake Enforcer? statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:453
-msgid "Drake Flare? Drake Flameheart? statue"
-msgstr ""
-
-#. [event]
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:456
-msgid "Drake Warrior? Drake Blademaster? statue"
-msgstr ""
-
-#. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:553
-msgid "The great chamber of the Earth's Smith. Truly a place deserving of its name."
+#. [message]
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:814
+msgid "Stop them! Avenge our fallen kin on the surface gates!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:558
-msgid "It is amazing, but it has been descreated by the dwarven runes. The wanderer said that we'll find our heart here. And I can feel it already."
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:819
+msgid "The merfolk are even inside the temple? This is most disturbing news, indeed."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:563
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:824
+msgid "If they attempt to hinder us, do not show mercy! We must reach the deepest section of the temple at all costs!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:853
+msgid "If the drakes are here, then Elysia must have succumbed! You shall pay for this, drakes!"
+msgstr ""
+
+#. [message]
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:882
+msgid "This must be the leader of the Merfolk!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:887
+msgid "Defeating her might make her minions withdraw from here!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:907
+msgid "So, this is the pesky stonehead that has been unleashing those gryphon riders at us!"
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:932
+msgid "Another commander of the stoneheads is here!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:952
+msgid "Oh, nae! I hae failed ta stop tha drakes!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:967
+msgid "<i>*cough*</i> You...you cannot... <i>*cough*</i> defeat... <i>*cough*</i> the dwarven spirit! <i>*cough*</i> Our runes... will...live on <i>*cough*</i> ...through...the ages! <i>*cough*</i>"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:983
+msgid "It's over... We could not stop them..."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:988
+msgid "Their animity towards us makes me wonder what the stoneheads offered them in exchange for their allegiance."
+msgstr ""
+
+#. [message]
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:994
+msgid "I am not sure. However, we should prioritise reaching the great chamber."
+msgstr ""
+
+#. [message]: speaker=Malkrath
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1008
+msgid "To be defeated so soon after being freed! What a shame!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1018
+msgid "The temple has been cleansed of invaders. Now, we should make our way to the great chamber!"
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1028
+msgid "Herkarth, we really should start advancing towards the great chamber right about now!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1033
+msgid "You speaker wisdom, old friend. Drakes, cease combat and focus on paving the way towards the great chamber!"
+msgstr ""
+
+#. [message]: speaker=Ilrandh
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1097
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1005
+msgid "Hello, drakes! I be impressed that ye have managed ta get this far. However, your quest be in vain now."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1102
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1010
+msgid "Stop spewing nonsense, dwarf!"
+msgstr ""
+
+#. [message]: speaker=Ilrandh
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1107
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1015
+msgid "Do ye think I be joking? Well, I hae tha Oaken's Stone with me now. I hae reclaimed it from your now deceased king. I shall now use its power with me crown ta phase ye all from existence!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1112
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1020
+msgid "No, it cannot be!"
+msgstr ""
+
+#. [message]: speaker=Ilrandh
+#: Ashen_Hearts/scenarios/06_Tears_of_the_Heartfangs.cfg:1123
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1031
+msgid "Tha age o' drakes has finished. Tha reign o' tha dwarves begins now!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:348
+msgid "The great chamber of the Earth's Crucible. Truly a place deserving of its name."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:353
+msgid "It is amazing, but it has been desecrated by the dwarven runes. The wanderer said that we'll find our heart here. And I can feel it already."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:358
 msgid "Indeed, but even with the stoneheads' magic poisoning our temple, I sense my inner fire resonating with our ancestor's hearts. It is incredible!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:568
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:363
 msgid "It's amazing, Herkarth! Already I feel my inner flame stirring once again. But, I sense something else as well. There is another magic at work here."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:573
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:368
 msgid "You are right. This sorcery feels familiar. Let me see... I know! It's the wanderer!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:612
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:407
 msgid "So, pale one. You have come."
 msgstr ""
 
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:617
+#. [message]: speaker=Khazran_Wanderer
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:412
 msgid "I promised I would return when you had descended into the darkness. There is still hope for you to rekindle your inner fires."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:622
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:417
 msgid "How can we do that?"
 msgstr ""
 
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:627
+#. [message]: speaker=Khazran_Wanderer
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:422
 msgid "Follow me, I shall show you."
 msgstr ""
 
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:636
+#. [message]: speaker=Khazran_Wanderer
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:433
 msgid "See this? It is a dragonheart. The ancient flame of the dragons burns within him - he is directly descended from them, and you, from him. He is the link, and the key to your inner fire."
 msgstr ""
 
 #. [message]: speaker=Lokh
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:650
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:447
 msgid "Lokh! The runes of the forefathers shall bind the heart of the volcano!"
 msgstr ""
 
 #. [message]: speaker=Val
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:658
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:455
 msgid "Val! The maw of the depths shall close once more!"
 msgstr ""
 
 #. [message]: speaker=Dul
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:666
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:463
 msgid "Dul! To devour the ones it once spit out!"
 msgstr ""
 
 #. [message]: speaker=Naj
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:674
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:471
 msgid "Naj! And bring back the reign of dwarves!"
 msgstr ""
 
 #. [message]: speaker=Fel
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:682
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:479
 msgid "Fel! These runes are a testament of our power!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:687
-msgid "The dwarven imprison the Dragonheart!"
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:484
+msgid "The dwarves have imprisoned the Dragonheart!"
 msgstr ""
 
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:692
-msgid "That is not your only concern. An army of dwarves is heading for the Ashen's Maw. They sealed the dragonheart with their runes, blocking your link with the dragons. Without the link, your inner flame dwindles, and without your fire, you dare not hope to defeat the dwarves. You must allow the the fire of the dragonheart to incinerate your hearts or your strength will not return. Make haste, or the dwarves will ravage your home and reclaim the Oaken's Stone."
+#. [message]: speaker=Khazran_Wanderer
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:489
+msgid "That is not your only concern. An army of dwarves is heading for the Ashen's Maw. They have sealed the dragonheart with their runes, blocking your link with the dragons. Without the link, your inner flame dwindles, and without your fire, you dare not hope to defeat the dwarves. You must allow the fire of the dragonheart to incinerate your hearts or your strength will not return. Make haste, or the dwarves will ravage your home and reclaim the Oaken's Stone."
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:698
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:495
 msgid "Suddenly the pale one fades and light emerges from his body."
 msgstr ""
 
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:733
+#. [message]: speaker=Khazran_Wanderer
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:530
 msgid "Help me, Herkarth. Release me, and what was once ashes will roar with flame again."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:752
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:549
 msgid "I see it clearly now. The wanderer was just an illusion. He was actually an image of the dragonheart, who appeared only to find the worthy of our kind."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:757
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:554
 msgid "And we are his chosen ones."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:762
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:559
 msgid "So it seems. Let us free him and set the flames alight again."
 msgstr ""
 
 #. [message]: speaker=Fel
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:767
-msgid "Brothers! The drakes be finally here! Prepare tha ballistas! Stick tha flying beasts to tha ground!"
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:564
+msgid "Brothers! The drakes be finally here! Prepare tha ballistas! Stick tha flying beasts to the ground!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:781
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:579
 msgid "Find a way to free the Dragonheart"
 msgstr ""
 
-#. [side]: type=Dwarvish Crownbearer, id=Ilrandh
-#. [scenario]: id=08_Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:96
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:5
-msgid "Ilrandh"
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:699
+msgid "The ice does not seem to melt when I land and breathe my fire on it!"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:18
-msgid "With renewed fire, Herkarth and the other drakes accompanied Khazran back to the Ashen's Maw. They arrived just in time, right as the dwarvish army began its assault on the Maw."
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:704
+msgid "The stoneheads must have enchanted the ice with their runic magic. We must find some way to free the Dragonheart if we are to thwart their magic!"
 msgstr ""
 
-#. [side]: type=Dwarvish Arcanister, id=Skjal
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:153
-msgid "Skjal"
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:725
+msgid "I have stepped on the rune. It does not seem to do anything."
 msgstr ""
 
-#. [dummy]: id=king
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:383
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:730
+msgid "From the statues, I can surmise that only stronger drakes may awaken the Dragonheart."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:750
+msgid "Judging from the statues, I do not think me or any other members of the Glider caste can be used to awakened the Dragonheart."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:772
+msgid "My time has come."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:777
+msgid "Herkarth, no! I know your inner fire burns stronger than the others, but this is no excuse for you to participate in this! Let another take your place!"
+msgstr ""
+
+#. [message]
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:786
+msgid "Fire of Menor, no! You must not do this! You are our leader. You have lead us relentlessly in this arduous quest. We have entered the temple and fought our way to the Great Chamber under your leadership. We cannot let you sacrifice yourself!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:791
+msgid "Very well. Let another take my place here then."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:813
+msgid "The statue here is that of an Arbiter. Perhaps this rune can be activated by one of us?"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:839
+msgid "The statue here is that of an Inferno Drake. Maybe one of the Fire or Inferno Drakes of our caste should activate this rune."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:861
+msgid "This is a statue resembling a Thrasher of the Clasher caste. One of us Thrashers or Enforcers might be able to activate this rune."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:883
+msgid "I suppose this statue indicates this rune can be activated by the Flares or Flamehearts of the Burner Caste. It seems we are on the right track."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:905
+msgid "I can say with confidence that one of the Warriors or Blademasters of the Fighter Caste might be able to activate this rune."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:916
+msgid "The stoneheads have been dealt with. They have sustained quite the resistance. However, in the end, we have overwhelmed them."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:921
+msgid "Now, we can fully focus on awakening the Dragonheart. Have we reached any conclusion as to how to achieve that?"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:929
+msgid "I can speculate that the runes are supressing the Dragonheart's fiery soul. To awaken him, we must give up the inner fire of the drakes who will stand on the runes."
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:934
+msgid "Considering what type of drake should activate which rune, I think the statues have been placed there to specify just that. If you see the statue of a Drake Warrior next to a rune, I would surmise that either a Drake Warrior or Drake Blademaster can activate that rune."
+msgstr ""
+
+#. [message]: speaker=Uluthur
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:944
+msgid "Herkarth, I fear we should hurry in our quest to awaken the Dragonheart. The dwarves are already on the match towards the Ashen's Maw!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:948
+msgid "Yes, old friend. We must hurry! We shall be extinct if we cannot free the dragonheart!"
+msgstr ""
+
+#. [message]: speaker=Lokh
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1054
+msgid "Nae, tha runes o' tha forefathers must nae be allowed ta be undone!"
+msgstr ""
+
+#. [message]: speaker=Val
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1072
+msgid "Do nae let tha drakes stop tha emergence o' tha dwarves!"
+msgstr ""
+
+#. [message]: speaker=Dul
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1090
+msgid "Nae! Tha dwarves be superior! How can we be defeated by overgrown lizards?!"
+msgstr ""
+
+#. [message]: speaker=Naj
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1108
+msgid "Stop tha drakes from freeing tha Dragonheart!"
+msgstr ""
+
+#. [message]: speaker=Fel
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1126
+msgid "Tha prophecy must nae come ta pass!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1149
+msgid "Watch out! That clockwork contraption looks deadly!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1171
+msgid "What a deadly weapon! We must prioritise destroying them!"
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1188
+msgid "Ah, the Dragonheart! I can feel the radiance of the mighty dragonfire as I am next to him."
+msgstr ""
+
+#. [message]: speaker=unit
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1193
+msgid "As I observe him, he resembles a drake however, his features are more aligned with that of our dragon Ancestors of old. What a fascinating sight to behold!"
+msgstr ""
+
+#. [message]: speaker=Malkrath
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1209
+msgid "<i>*(roars)*</i> Come, my fellow drakes! Let us free the Dragonheart!"
+msgstr ""
+
+#. [message]: speaker=Malkrath
+#: Ashen_Hearts/scenarios/07_Dragonheart.cfg:1223
+msgid "I may fall, but my brethen fight on! Free the Dragonheart!"
+msgstr ""
+
+#. [underearth_crown]: id=king
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:340
 msgid "Bearer of the Underearth Crown"
 msgstr ""
 
-#. [dummy]: id=king
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:384
+#. [underearth_crown]: id=king
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:341
 msgid "This unit is nearly immortal. Only the mightiest beings could hope to harm him."
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:492
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:449
 msgid "Krindil"
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:493
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:450
 msgid "Elqadil"
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:494
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:451
 msgid "Corrondil"
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:495
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:452
 msgid "Percatdol"
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:496
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:453
 msgid "Kerdin"
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:498
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:455
 msgid "Crowndil"
 msgstr ""
 
 #. [event]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:499
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:456
 msgid "Heirdil"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:648
-msgid "We have waited so long for this day. Now, all our pieces be finally in place. Dwarves, by the end of the day, the Oaken's stone shall be ours once more! The drakes shall fall before our might, and the Underearth crown shall be complete! Fear not the fiery ones, for we hae successfully weakened their inner flames. Our axes shall cut through them like paper, and our hammers will crush their skulls like twigs!"
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:561
+msgid "We have waited so long for this day. Now, all our pieces be finally in place. Dwarves, by the end of the day, the Oaken's stone shall be ours once more! The drakes shall fall before our might, and the Underearth Crown shall be complete! Fear not the fiery ones, for we have successfully weakened their inner flames. Our axes shall cut through them like paper, and our hammers will crush their skulls like twigs!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:653
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:566
 msgid "March on, my brethren! Shields high!"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:668
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:581
 msgid "Your march ends here, dwarf!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:673
-msgid "The dragonheart has returned! Wha... what have you done do to our runesmiths?"
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:586
+msgid "The dragonheart has returned! Wha... what have you done to our runesmiths?"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:678
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:591
 msgid "Their corpses feed the burning heart of our volcano."
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:683
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:596
 msgid "You monster... I see that it is come to this. I myself shall lead my troops! Skjal! Hold the rear flank - let no drake through!"
 msgstr ""
 
 #. [message]: speaker=Skjal
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:694
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:607
 msgid "By the mountains, none shall pass!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:728
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:641
 msgid "Krindil! Elqadil! To my side!"
 msgstr ""
 
 #. [message]: speaker=Krindil
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:733
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:646
 msgid "Aye, sir!"
 msgstr ""
 
 #. [message]: speaker=Elqadil
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:739
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:652
 msgid "As ye will!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:759
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:672
 msgid "Corrondil! Percatdol!"
 msgstr ""
 
 #. [message]: speaker=Corrondil
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:767
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:680
 msgid "We be here to serve!"
 msgstr ""
 
 #. [message]: speaker=Percatdol
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:772
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:685
 msgid "At yer side!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:779
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:692
 msgid "Kerdin!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:788
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:701
 msgid "Kerdin, where in the name of the mountains are you?!"
 msgstr ""
 
 #. [message]: speaker=Kerdin
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:793
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:706
 msgid "Aaayyyee!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:818
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:731
 msgid "By the day's eve, we shall storm their fortress and reforge the Underearth Crown! Then..."
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:830
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:743
 msgid "... the runes shall release their true power and the mountains' throne shall be ours!"
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:842
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:755
 msgid "Axes up!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:847
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:760
 msgid "The dwarves seek the treasure we claimed from them?"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:852
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:765
 msgid "The Oaken's Stone contains great power, Herkarth. It is the last piece of the Underearth Crown, a legendary artifact possessed of untold power. If the stoneheads manage to wrest the Oaken's Stone from us... the Underearth Crown will be unleashed and the dwarves will surely eradicate us all. We must stop Ilrandh from reaching the Stone."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:857
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:770
 msgid "Then our situation is most dire. King Menor IV stands alone at the Ashen's Maw, but the dwarves block our path to him. We will not reach him before they do!"
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:862
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:775
 msgid "My wings are faster than the wind. I shall go."
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:867
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:780
 msgid "Go quickly! Once you reach the king, I can focus the power of my fire upon you to teleport to him as well. Wind carry you!"
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:881
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:799
 msgid "Move Uluthur to Menor IV"
 msgstr ""
 
 #. [objective]: condition=win
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:885
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1120
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:803
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1075
 msgid "Defeat Ilrandh"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:889
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1124
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:807
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1079
 msgid "Ilrandh reaches the Oaken's Stone"
 msgstr ""
 
 #. [objective]: condition=lose
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:897
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1132
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:815
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1087
 msgid "Khazran, the Dragonheart, dies"
 msgstr ""
 
 #. [note]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:910
-msgid "Khazran is able to recruit and recall units. He can also teleport."
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:828
+msgid "Khazran is able to recruit and recall units."
+msgstr ""
+
+#. [note]
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:831
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1103
+msgid "Khazran can teleport between owned villages."
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:921
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:849
 msgid "I know these runes. They are called wind runes and are used by the dwarves to quickly traverse underground paths."
 msgstr ""
 
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:873
+msgid "<i>(roars)</i> Taste the intense flames of the ancestors!"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:891
+msgid "<i>(roars)</i> I am going to tear you apart, inch by inch!"
+msgstr ""
+
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:966
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:937
 msgid "Khazran! Let the fires of the Menor burn again!"
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:983
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:954
 msgid "By the Ashen's Maw! Is... is that you, Khazran?"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:988
-msgid "It is. Your bloodline shares my flame, Menor IV, but without our connection, the fire of kings has dwindled o'er time. The ashes devour you from within."
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:959
+msgid "It is. Your bloodline shares my flame, Menor IV, but without our connection, the fire of kings has dwindled over time. The ashes devour you from within."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:993
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:964
 msgid "Then enlighten me with your flame, dragonheart! Restore our strength, and we shall show the dwarves the folly of their insolence. Those who have the audacity to assault the Ashen's Maw itself shall perish in its burning core!"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1009
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:980
 msgid "Then open yourself to me, king of the Menor! Open your heart and embrace the fire!"
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1050
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1021
 msgid "The heat... I can feel its strength! The flame of our ancestors burns within me once more!"
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1080
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1051
 msgid "It is stronger than ever! The ashen fire is gone, and in its place, the fire of the Menor burn proudly again!"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1085
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1056
 msgid "Your strength has returned, Menor IV. Now, the dwarves will know the true power of the drakes!"
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1090
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1061
 msgid "Yes, let the fire consume all to ashes! Herkarth, prepare to attack!"
 msgstr ""
 
 #. [note]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1145
-msgid "Khazran can recruit and recall. He also has the ability to teleport."
-msgstr ""
-
-#. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1203
-msgid "No, no! His crown is protecting him from your flames. But my fire burns brighter. I shall bring him down!"
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1100
+msgid "Khazran can recruit and recall."
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1267
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1216
+msgid "What? I am not being protected?! What is this?"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1221
+msgid "You may have augmented yourself to be immune to most weapons. However, the intense fire that burns within me is potent enough to superceed what paltry magic you have, dwarf!"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1226
+msgid "Prepare to meet your end, dwarf!"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1238
+msgid "No, no! I have to use my fire to bring him down! My claws will not do any damage to him!"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1251
+msgid "No, no! His crown is protecting him from your flames. But my fire burns with greater intensity. I shall bring him down!"
+msgstr ""
+
+#. [message]: speaker=Skjal
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1307
+msgid "Forgive me, me king! I have failed ye!"
+msgstr ""
+
+#. [message]: speaker=Ilrandh
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1312
+msgid "Do not grief, loyal Skjal. I shall claim the Oaken's Stone and bring forth the reign of the dwarves!"
+msgstr ""
+
+#. [message]: speaker=Ilrandh
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1325
 msgid "The... the... Oaken's Stone... give it... to me."
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1272
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1330
 msgid "Your time has come, dwarf. Embrace your end."
 msgstr ""
 
 #. [message]: speaker=Ilrandh
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1277
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1335
 msgid "Aaaarrrgggghhhh!"
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1298
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1356
 msgid "No dwarf shall ever again take the Underearth Crown. Its power presents too great a risk to us. It must be destroyed"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1374
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1432
 msgid "It is done. The Underearth Crown is no more. The dwarvish king is fallen. The stoneheads' army is burned to ashes."
 msgstr ""
 
 #. [message]: speaker=Khazran
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1379
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1437
 msgid "And the hearts of the Menor burn a flame with the blood of the dragons again. Never again shall anyone dare to sever the connection of our fire."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1384
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1442
 msgid "Indeed. Herkarth, I thank you. You've freed Khazran and reforged our link with the dragons. Our victory today is owed to you."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1389
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1447
 msgid "That's not all. We have braved the biting frost and ice, crawled through the darkest depths of the underground, faced the mightiest runes of the dwarves, and restored the lifeblood of our kind. Herkarth is a hero!"
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1394
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1452
 msgid "Forsooth, he is. And so I say this. Even though our tradition demands the crown of the drakes be won in battle, or granted after my passing, we shall rewrite our customs today in recognition of Herkarth's service. The succession of the kings shall no longer be a matter of death and blood, no, it shall be a matter of deeds."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1399
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1457
 msgid "In this matter, Herkarth, you have honourably led the drakes far better than I have ever done. You have saved our people and our home, and restored the strength of our inner flame. And therefore, you shall be our new king. Come to me."
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1415
-msgid "In the name of the Ashen's Maw, in the name of the mighty Menor, shall I, King Menor IV, lay down the crown, for a new Menor with the virtues of a king has revealed himself. I crown you, Herkarth, to be <i>King Menor V, fire of Menor, first of the Ashen's Maw, ruler of drakes</i>. Our king."
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1473
+msgid "In the name of the Ashen's Maw, in the name of the mighty Menor, shall I, King Menor IV, lay down the crown, for a new Menor with the virtues of a king has revealed himself. I crown you, Herkarth, to be <i>King Menor V, the Fire of Menor, the First of the Ashen's Maw, the Ruler of Drakes</i>. Our King."
 msgstr ""
 
 #. [object]
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1421
-msgid "This unit is crowned king"
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1479
+msgid "This unit has been crowned King"
+msgstr ""
+
+#. [event]
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1489
+msgid "Menor V"
 msgstr ""
 
 #. [message]: speaker=Menor IV
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1432
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1493
 msgid "Lead us wisely, King Menor V."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1437
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1498
 msgid "Thank you. I will not let you down, Menor IV. Under my rule, the drakes of the Ashen's Maw shall make our strength known across all of Irdya. And no race - man, dwarf, elf or drake - shall ever again dare to threaten the Maw, for the fire of the drakes once again defends our home proudly."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1442
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1503
 msgid "Uuuuhhh, <i>King Menor V, fire of Menor, first of the Ashen's Maw, rule of drakes</i>... that's quite a long name to remember. Perhaps I will still just call you <i>Herkarth</i>. As a friend would."
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1447
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1508
 msgid "That's fine, Uluthur, my friend. You stood at my side during times of danger and your valorous heart has never wavered in your loyalty. If you wish it, I shall..."
 msgstr ""
 
 #. [message]: speaker=Uluthur
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1452
-msgid "No, setting me at your side in the Ashen's Maw would not be fitting. As with the other drakes of the sky, this volcano is no place for me, for we must be as free as the winds. And so I will continue riding the winds and bring you news from afar - I will explore the world far and wide and serve in your name, Herkarth!"
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1513
+msgid "No, setting me at your side in the Ashen's Maw would not be fitting. As with the other drakes of the sky, this volcano is no place for me, for we must be as free as the winds. And so I will continue riding the winds and bring you news from afar - I will explore the world far and wide and serve in your name, Menor V!"
 msgstr ""
 
 #. [message]: speaker=Herkarth
-#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1457
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1518
 msgid "As you will, my friend. And so, a new era of drakes is upon us."
+msgstr ""
+
+#. [message]: speaker=Malkrath
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1567
+msgid "I may fall, but my brethen fight on! Stop that stonehead scum!"
+msgstr ""
+
+#. [message]: speaker=Krindil
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1581
+msgid "Me king... I have failed ye..."
+msgstr ""
+
+#. [message]: speaker=Elqadil
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1595
+msgid "Agh... forgive me, Yer Majesty. I hae failed ye."
+msgstr ""
+
+#. [message]: speaker=Corrondil
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1609
+msgid "I... I could not... forgive me, me king."
+msgstr ""
+
+#. [message]: speaker=Percatdol
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1623
+msgid "By my beard... I have let ye down, me king."
+msgstr ""
+
+#. [message]: speaker=Kerdin
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1637
+msgid "If only... forgive me, me king. I tried.."
+msgstr ""
+
+#. [message]: speaker=Crowndil
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1651
+msgid "Me king... I hae not been worthy."
+msgstr ""
+
+#. [message]: speaker=Heirdil
+#: Ashen_Hearts/scenarios/08_Ilrandh.cfg:1665
+msgid "This shame... I die with it. Forgive me, me king!"
 msgstr ""
 
 #. [scenario]: id=09_Epilogue
@@ -2242,243 +3069,348 @@ msgstr ""
 msgid "Epilogue"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/09_Epilogue.cfg:32
-msgid "The drakes' victory over the dwarves and return of the Dragonheart lead to what became known as the Ashen Ages. Between 674 YW and 760 YW, the Ashen's Maw, fueled by the combined magic of the Dragonheart and the Underearth Crown, ceaselessly rained out ashes on the land below, covering the sky with pallid grey. As a result, large areas of the Northlands became uninhabitable to new settlers. The humans were forced to abandon their castles and cities and return to Wesnoth, while the dwarves dug deeper into the mountains in an effort to avoid the ashes. Thus, the reign of the mighty drakes was cemented."
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:9
+msgid "Objective I:"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/09_Epilogue.cfg:37
-msgid "The Dragonheart, Khazran returned to the depths below Lake Vrug. The former king of the Ashen's Maw, Menor IV, and a group of loyal drakes accompanied him to serve as the temple's new guardians. The once abandoned temple soon returned to its former glory as the sacred centerpiece of drake power, where the flames of the dragons flowed freely to the living drakes once more. This link has not weakened ever since Khazran's return."
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:10
+msgid "Explore and identify where the temple is located"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/09_Epilogue.cfg:42
-msgid "With their newfound strength, the drakes struck fear into the hearts of their foes, either cowing them into submission or turning them into ashes. At their head Herkarth ruled over the Ashen's Maw and the surrounding Heartfangs, expanding the drakes' territory farther than it had ever gone before. And by his side, Uluthur continued to roam the Heartfangs until the end of his days."
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:14
+msgid "Objective II:"
 msgstr ""
 
-#. [part]
-#: Ashen_Hearts/scenarios/09_Epilogue.cfg:47
-msgid "Thus ends the tale of the drakes of the Ashen's Heart."
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:15
+msgid "Enter the temple with Herkarth"
 msgstr ""
 
-#. [unit_type]: id=Dwarvish Ironbender, race=dwarf
-#: Ashen_Hearts/units/aragan.cfg:4
-msgid "Dwarvish Ironbender"
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:19
+msgid "Objective III:"
 msgstr ""
 
-#. [unit_type]: id=Dwarvish Ironbender, race=dwarf
-#: Ashen_Hearts/units/aragan.cfg:18
-msgid "Eager to explore the world in search of ancient and forgotten artifacts, the is a mostly lone survivor who will, nevertheless, embrace the company of others if that helps to advance his cause. His travels and artifacts collected in the span of this life have made him tough adversaries for any foe foolish enough to pose an obstacle to his everlasting quest, leading them away from the usual paths of the dwarvish people."
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:20
+msgid "Defeat the dwarven commanders"
 msgstr ""
 
-#. [attack]: type=impact
-#: Ashen_Hearts/units/aragan.cfg:26
-#: Ashen_Hearts/units/bear_cavalry.cfg:44
-#: Ashen_Hearts/units/bear_rider.cfg:43
-msgid "hammer"
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:28
+msgid "Optional Objective:"
+msgstr ""
+
+#. [objective]: condition=win
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:29
+msgid "Elri finds the traitor and kills him"
+msgstr ""
+
+#. [note]
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:56
+msgid "Drake Thrashers or Drake Enforcers can destroy weakened cave walls."
+msgstr ""
+
+#. [note]
+#: Ashen_Hearts/scenarios/scenario-utils/05_Runic_Gate-utils.cfg:59
+msgid "It is not necessary to kill every enemy here."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Ashen_Hearts/scenarios/scenario-utils/07_Dragonheart-utils.cfg:65
+msgid "Sacrifice this drake?"
+msgstr ""
+
+#. [option]
+#: Ashen_Hearts/scenarios/scenario-utils/07_Dragonheart-utils.cfg:67
+msgid "No"
+msgstr ""
+
+#. [option]
+#: Ashen_Hearts/scenarios/scenario-utils/07_Dragonheart-utils.cfg:82
+msgid "Yes"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/scenario-utils/07_Dragonheart-utils.cfg:209
+msgid "I am free once more!"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/scenario-utils/07_Dragonheart-utils.cfg:217
+msgid "Your flames are mine!"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/scenario-utils/07_Dragonheart-utils.cfg:282
+msgid "Herkarth! The Age of Drakes is upon us! We, the descendants of The Fire, shall enslave all others and rule the world!"
+msgstr ""
+
+#. [message]: speaker=Herkarth
+#: Ashen_Hearts/scenarios/scenario-utils/07_Dragonheart-utils.cfg:287
+msgid "The Fire burns stronger than ever!"
+msgstr ""
+
+#. [message]: speaker=Khazran
+#: Ashen_Hearts/scenarios/scenario-utils/07_Dragonheart-utils.cfg:292
+msgid "Forsooth! And we shall have our revenge on the dwarves for their vile deception! They march toward the Ashen's Maw now, hoping to conquer our home, but it is there that we will burn them to ashes!"
+msgstr ""
+
+#. [color_range]: id=steel_blue
+#: Ashen_Hearts/team-colors.cfg:6
+msgid "team_color^Steel Blue"
+msgstr ""
+
+#. [race]: id=hidden_race, description=<img>src=units/unknown-unit.png~RC(magenta>red) align=left float=yes</img>
+#: Ashen_Hearts/units/1AH_races.cfg:5
+#: Ashen_Hearts/units/1AH_races.cfg:6
+#: Ashen_Hearts/units/1AH_races.cfg:7
+msgid "Unknown"
+msgstr ""
+
+#. [race]: id=hidden_race, description=<img>src=units/unknown-unit.png~RC(magenta>red) align=left float=yes</img>
+#: Ashen_Hearts/units/1AH_races.cfg:9
+msgid ""
+"\n"
+"\n"
+"The race of this unit cannot be revealed yet. You must discover it in the game to be allowed to see its description."
 msgstr ""
 
 #. [unit_type]: id=Bear Cavalry, race=dwarf
-#: Ashen_Hearts/units/bear_cavalry.cfg:5
+#: Ashen_Hearts/units/Bear_Cavalry.cfg:5
 msgid "Bear Cavalry"
 msgstr ""
 
 #. [unit_type]: id=Bear Cavalry, race=dwarf
 #. [unit_type]: id=Bear Rider, race=dwarf
-#: Ashen_Hearts/units/bear_cavalry.cfg:20
-#: Ashen_Hearts/units/bear_rider.cfg:19
+#: Ashen_Hearts/units/Bear_Cavalry.cfg:20
+#: Ashen_Hearts/units/Bear_Rider.cfg:19
 msgid "The bears of the valleys of the Mountains of Haag are one of the fiercest yet tameable creatures of the Northlands. As both dwarves and bears inhabit these mountains, it was just a matter of time the dwarves managed to tame them. The Shorbear Clan was the first one to do so."
 msgstr ""
 
+#. [attack]: type=impact
+#: Ashen_Hearts/units/Bear_Cavalry.cfg:34
+#: Ashen_Hearts/units/Bear_Rider.cfg:33
+#: Ashen_Hearts/units/Dwarvish_Crownbearer.cfg:25
+#: Ashen_Hearts/units/Dwarvish_Ironbender.cfg:26
+msgid "hammer"
+msgstr ""
+
 #. [attack]: type=blade
-#: Ashen_Hearts/units/bear_cavalry.cfg:53
-#: Ashen_Hearts/units/bear_rider.cfg:52
+#: Ashen_Hearts/units/Bear_Cavalry.cfg:43
+#: Ashen_Hearts/units/Bear_Rider.cfg:42
 msgid "bite"
 msgstr ""
 
 #. [unit_type]: id=Bear Rider, race=dwarf
-#: Ashen_Hearts/units/bear_rider.cfg:5
+#: Ashen_Hearts/units/Bear_Rider.cfg:5
 msgid "Bear Rider"
 msgstr ""
 
-#. [unit_type]: id=Elvish Bloodmaiden, race=elf
-#: Ashen_Hearts/units/bloodmaiden.cfg:5
-msgid "Elvish Bloodmaiden"
-msgstr ""
-
-#. [unit_type]: id=Elvish Bloodmaiden, race=elf
-#: Ashen_Hearts/units/bloodmaiden.cfg:20
-msgid "For many races, it is highly unlikely to send their females into battle. For certain elvish populations however, females called 'bloodmaiden' are sent into battle as a rearguard whenever the elvish army suffered huge losses. Only equipped with a long skirt and a sharp sword, the bloodmaidens then blindly search for the ones that harmed their kin, finding them and turning the battlefield into a pool of blood."
-msgstr ""
-
-#. [attack]: type=blade
-#: Ashen_Hearts/units/bloodmaiden.cfg:29
-#: Ashen_Hearts/units/clockwork_centurion.cfg:30
-msgid "sword"
-msgstr ""
-
 #. [unit_type]: id=Clockwork Ballista, race=mechanical
-#: Ashen_Hearts/units/clockwork_ballista.cfg:5
+#: Ashen_Hearts/units/Clockwork_Ballista.cfg:5
 msgid "Clockwork Ballista"
 msgstr ""
 
 #. [unit_type]: id=Clockwork Ballista, race=mechanical
-#: Ashen_Hearts/units/clockwork_ballista.cfg:19
+#: Ashen_Hearts/units/Clockwork_Ballista.cfg:19
 msgid "Due to their low numbers, dwarves crafted machines, that support their cause. The dwarven-made Clockwork Ballista is a tool that has specifically crafted in order to hunt down drakes. Equipped with heavy bolts, the ballista is able to penetrate both armor and scales, which is the reason why the ballista is crafted in huge numbers whenever the dwarves wage war against drakes. Imbued with runic magic which controls it, it seems as though the clockwork ballista has its own will."
 msgstr ""
 
 #. [attack]: type=pierce
-#: Ashen_Hearts/units/clockwork_ballista.cfg:30
+#: Ashen_Hearts/units/Clockwork_Ballista.cfg:30
 msgid "crossbow"
 msgstr ""
 
-#. [chance_to_hit]: id=eagle eye
-#: Ashen_Hearts/units/clockwork_ballista.cfg:39
-msgid "eagle eye"
-msgstr ""
-
-#. [chance_to_hit]: id=eagle eye
-#: Ashen_Hearts/units/clockwork_ballista.cfg:41
-msgid "has always a 80% chance to hit"
-msgstr ""
-
 #. [unit_type]: id=Clockwork Centurion, race=mechanical
-#: Ashen_Hearts/units/clockwork_centurion.cfg:4
+#: Ashen_Hearts/units/Clockwork_Centurion.cfg:4
 msgid "Clockwork Centurion"
 msgstr ""
 
-#. [unit_type]: id=Clockwork Dragon, race=mechanical
-#: Ashen_Hearts/units/clockwork_dragon.cfg:5
-msgid "Clockwork Dragon"
+#. [unit_type]: id=Clockwork Centurion, race=mechanical
+#: Ashen_Hearts/units/Clockwork_Centurion.cfg:18
+msgid "A huge mechanical steed, mounted by a mechanical unit, the centurion. Created for the purpose of traversing long distances quickly, thereby nullifying the biggest weakness of the dwarves; speed. They are capable sentinels in the times of peace, and terrifying enemies as your opponents. Armed with dwarvish made longsword, these automatons are a force to be reckoned with."
 msgstr ""
 
 #. [attack]: type=blade
-#: Ashen_Hearts/units/clockwork_dragon.cfg:31
+#: Ashen_Hearts/units/Clockwork_Centurion.cfg:30
+#: Ashen_Hearts/units/Elvish_Bloodmaiden.cfg:29
+msgid "sword"
+msgstr ""
+
+#. [unit_type]: id=Clockwork Dragon, race=mechanical
+#: Ashen_Hearts/units/Clockwork_Dragon.cfg:5
+msgid "Clockwork Dragon"
+msgstr ""
+
+#. [unit_type]: id=Clockwork Dragon, race=mechanical
+#: Ashen_Hearts/units/Clockwork_Dragon.cfg:20
+msgid "The peak of dwarvish engineering, the clockwork dragon. A work of outstanding artistry of a skilled arcanister, created with the mastery and might of the runes. This behemoth creature of metal and steel has the power to pierce through a dozen soldiers with its beak, and its firepower is not to be meddled with. Many underestimate and mock this creation for its attempt to imitate a real dragon, and many realise too late how foolish they were..."
+msgstr ""
+
+#. [attack]: type=blade
+#: Ashen_Hearts/units/Clockwork_Dragon.cfg:33
 msgid "beak"
 msgstr ""
 
 #. [attack]: type=fire
-#: Ashen_Hearts/units/clockwork_dragon.cfg:41
-#: Ashen_Hearts/units/dragonheart.cfg:42
-#: Ashen_Hearts/units/skydrake-doody.cfg:63
+#: Ashen_Hearts/units/Clockwork_Dragon.cfg:43
+#: Ashen_Hearts/units/Dragonheart.cfg:42
+#: Ashen_Hearts/units/Dummy_Skydrake_Doody.cfg:68
 msgid "fire breath"
 msgstr ""
 
 #. [line_damage]: id=line_damage
-#: Ashen_Hearts/units/clockwork_dragon.cfg:51
+#: Ashen_Hearts/units/Clockwork_Dragon.cfg:53
 msgid "This unit deals half damage to the unit that is standing behind the attacked unit."
 msgstr ""
 
 #. [unit_type]: id=Dragonheart, race=drake
-#: Ashen_Hearts/units/dragonheart.cfg:21
+#: Ashen_Hearts/units/Dragonheart.cfg:21
 msgid "The dragonheart is the link between dragons and drakes. Being a direct descendant of dragons, the blood of the dragons is flowing through his veins. In comparison to the drakes, the descendants of the dragonheart, the dragonheart is able to control his magical inner fire to unleash his great powers. It is said, that dragonhearts are living inside the magma chambers of volcanoes and that they are the ones keeping the volcanoes active for the heat they are emerging can melt both stone and steel with ease."
 msgstr ""
 
 #. [attack]: type=blade
-#: Ashen_Hearts/units/dragonheart.cfg:33
+#: Ashen_Hearts/units/Dragonheart.cfg:33
 msgid "battle claws"
 msgstr ""
 
-#. [unit_type]: id=Gryphon Scout, race=gryphon
-#: Ashen_Hearts/units/gryphon_scout.cfg:5
-msgid "Gryphon Scout"
-msgstr ""
-
-#. [unit_type]: id=Gryphon Scout, race=gryphon
-#: Ashen_Hearts/units/gryphon_scout.cfg:21
-msgid "Gryphon Scouts are mostly elderly dwarves that ride an especially fast gryphon to catch up with fleeing prey or to espy the foothills of the great mountains of the Northlands. The riders are often old dwarves not because they are particularly experienced, but because their life is expendable, as the flights of Gryphon Scouts are often a very dangerous undertaking."
-msgstr ""
-
-#. [attack]: type=blade
-#: Ashen_Hearts/units/gryphon_scout.cfg:31
-#: Ashen_Hearts/units/gryphon_thunderlord.cfg:31
-msgid "claws"
-msgstr ""
-
-#. [attack]: type=impact
-#: Ashen_Hearts/units/gryphon_scout.cfg:41
-msgid "net"
-msgstr ""
-
-#. [unit_type]: id=Gryphon Thunderlord, race=gryphon
-#: Ashen_Hearts/units/gryphon_thunderlord.cfg:5
-msgid "Gryphon Thunderlord"
-msgstr ""
-
-#. [unit_type]: id=Gryphon Thunderlord, race=gryphon
-#: Ashen_Hearts/units/gryphon_thunderlord.cfg:21
-msgid "The bond between the Gryphon Thunderlords and their gryphons is unexcelled, forming a steady unity. Being enchanted with runic armor, these gryphons are able to reach the sky with ease. Once atop the clouds themselves, the Gryphon Thunderlords cast appalling lightning strikes to decimate and demoralize their foes."
-msgstr ""
-
-#. [attack]: type=fire
-#. [attack]: type=arcane
-#: Ashen_Hearts/units/gryphon_thunderlord.cfg:40
-#: Ashen_Hearts/units/protector.cfg:44
-msgid "lightning"
-msgstr ""
-
-#. [unit_type]: id=Dwarvish Protector, race=dwarf
-#: Ashen_Hearts/units/protector.cfg:5
-msgid "Dwarvish Protector"
-msgstr ""
-
-#. [unit_type]: id=Dwarvish Protector, race=dwarf
-#: Ashen_Hearts/units/protector.cfg:26
-msgid "Wearing mighty armour and a shield that have been passed on through generations of Dwarves, the Dwarvish Protectors withstand even the most vicious weapons and hottest flames. The Protectors are a rare caste of Dwarves that have sworn allegiance to the lord of the clan to which they belong and will die to protect him. As such, the Protectors are often seen in the throne-halls of the imposing fortifications of the Dwarves. Standing still for days on end and blessed with a stoic mind, they are often nearly mistaken for the lifeless statues of stone that grace the inner halls made in the likeness of the greatest warriors of yore. In times of war, Protectors stand side by side with their clanmates and lords, their mighty shields protecting not only themselves but also the warriors at their sides. Being able to call forth lightning strikes with their voice alone, the enemy army often scatters before a battle even takes place."
-msgstr ""
-
-#. [attack]: type=pierce
-#: Ashen_Hearts/units/protector.cfg:34
-msgid "spear"
-msgstr ""
-
-#. [attack]: type=impact
-#: Ashen_Hearts/units/protector.cfg:56
-msgid "shield bash"
-msgstr ""
-
 #. [unit_type]: id=Sky Drake Doody, race=drake
-#: Ashen_Hearts/units/skydrake-doody.cfg:5
+#: Ashen_Hearts/units/Dummy_Skydrake_Doody.cfg:7
 msgid "Sky Drake"
 msgstr ""
 
 #. [unit_type]: id=Sky Drake Doody, race=drake
-#: Ashen_Hearts/units/skydrake-doody.cfg:21
+#: Ashen_Hearts/units/Dummy_Skydrake_Doody.cfg:26
 msgid "The lightweight ceramic armor that the Sky Drakes wear is a symbol of their rank, glazed silver to honor their connection to the air. As leaders of the hunt, they are often away from their homes for long periods of time. Each tries to bring as much game home as possible, competing to gain the respect of their tribe and, just possibly, time with one of the closely-guarded drake females."
 msgstr ""
 
 #. [attack]: type=impact
-#: Ashen_Hearts/units/skydrake-doody.cfg:54
+#: Ashen_Hearts/units/Dummy_Skydrake_Doody.cfg:59
 msgid "slam"
 msgstr ""
 
+#. [unit_type]: id=Dwarvish Bloodaxe, race=dwarf
+#: Ashen_Hearts/units/Dwarvish_Bloodaxe.cfg:5
+msgid "Dwarvish Bloodaxe"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Bloodaxe, race=dwarf
+#: Ashen_Hearts/units/Dwarvish_Bloodaxe.cfg:19
+msgid "According to legend, the all-consuming bloodaxes were forged at the dawn of time in the great stone-fires of Dhur Darihm, when all Irdya was still drowned in flame and soot. It is with them that the first dwarves made war against the troll-mother, laying low her people and forevermore claiming dominion in the underearth. While the truth of this legend is a matter of debate, battlefield reports leave no doubt that such weapons exist, and that they confer great resilience upon their wielder. The dwarves’ few remaining bloodaxes are jealously guarded, passed down from father to son and reclaimed from the fallen even at great cost."
+msgstr ""
+
+#. [attack]: type=blade
+#: Ashen_Hearts/units/Dwarvish_Bloodaxe.cfg:31
+msgid "bloodaxe"
+msgstr ""
+
 #. [unit_type]: id=Dwarvish Crownbearer, race=dwarf
-#: Ashen_Hearts/units/underearthking.cfg:5
+#: Ashen_Hearts/units/Dwarvish_Crownbearer.cfg:5
 msgid "Dwarvish Crownbearer"
 msgstr ""
 
 #. [unit_type]: id=Dwarvish Crownbearer, race=dwarf
-#: Ashen_Hearts/units/underearthking.cfg:14
+#: Ashen_Hearts/units/Dwarvish_Crownbearer.cfg:19
 msgid "The Dwarvish Crownbearer is the bearer of the Underearth Crown, an unfinished work of dwarvish runesmiths that grants the ability to cast forth ancient runic magic."
 msgstr ""
 
-#. [unit_type]: id=Wanderer, race=drake
-#. [unit_type]: id=Porter, race=drake
-#: Ashen_Hearts/units/wanderer.cfg:19
-#: Ashen_Hearts/units/wanderer.cfg:97
+#. [unit_type]: id=Dwarvish Ironbender, race=dwarf
+#: Ashen_Hearts/units/Dwarvish_Ironbender.cfg:4
+msgid "Dwarvish Ironbender"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Ironbender, race=dwarf
+#: Ashen_Hearts/units/Dwarvish_Ironbender.cfg:18
+msgid "Eager to explore the world in search of ancient and forgotten artifacts, the Ironbender is a mostly lone survivor who will, nevertheless, embrace the company of others if that helps to advance his cause. His travels and artifacts collected in the span of his life have made him a tough adversary for any foe foolish enough to pose an obstacle to his everlasting quest, leading him away from the usual paths of the dwarvish people."
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Protector, race=dwarf
+#: Ashen_Hearts/units/Dwarvish_Protector.cfg:5
+msgid "Dwarvish Protector"
+msgstr ""
+
+#. [unit_type]: id=Dwarvish Protector, race=dwarf
+#: Ashen_Hearts/units/Dwarvish_Protector.cfg:26
+msgid "Wearing mighty armour and a shield that have been passed on through generations of Dwarves, the Dwarvish Protectors withstand even the most vicious weapons and hottest flames. The Protectors are a rare caste of Dwarves that have sworn allegiance to the lord of the clan to which they belong and will die to protect him. As such, the Protectors are often seen in the throne-halls of the imposing fortifications of the Dwarves. Standing still for days on end and blessed with a stoic mind, they are often nearly mistaken for the lifeless statues of stone that grace the inner halls made in the likeness of the greatest warriors of yore. In times of war, Protectors stand side by side with their clanmates and lords, their mighty shields protecting not only themselves but also the warriors at their sides. Being able to call forth lightning strikes with their voice alone, the enemy army often scatters before a battle even takes place."
+msgstr ""
+
+#. [attack]: type=pierce
+#: Ashen_Hearts/units/Dwarvish_Protector.cfg:34
+msgid "spear"
+msgstr ""
+
+#. [attack]: type=fire
+#: Ashen_Hearts/units/Dwarvish_Protector.cfg:47
+#: Ashen_Hearts/units/Gryphon_Thunderlord.cfg:40
+msgid "lightning"
+msgstr ""
+
+#. [attack]: type=impact
+#: Ashen_Hearts/units/Dwarvish_Protector.cfg:59
+msgid "shield bash"
+msgstr ""
+
+#. [unit_type]: id=Elvish Bloodmaiden, race=elf
+#: Ashen_Hearts/units/Elvish_Bloodmaiden.cfg:5
+msgid "Elvish Bloodmaiden"
+msgstr ""
+
+#. [unit_type]: id=Elvish Bloodmaiden, race=elf
+#: Ashen_Hearts/units/Elvish_Bloodmaiden.cfg:20
+msgid "For many races, it is highly unlikely to send their females into battle. For certain elvish populations however, females called 'bloodmaiden' are sent into battle as a rearguard whenever the elvish army suffered huge losses. Only equipped with a long skirt and a sharp sword, the bloodmaidens then blindly search for the ones that harmed their kin, finding them and turning the battlefield into a pool of blood."
+msgstr ""
+
+#. [unit_type]: id=Gryphon Scout, race=gryphon
+#: Ashen_Hearts/units/Gryphon_Scout.cfg:5
+msgid "Gryphon Scout"
+msgstr ""
+
+#. [unit_type]: id=Gryphon Scout, race=gryphon
+#: Ashen_Hearts/units/Gryphon_Scout.cfg:21
+msgid "Gryphon Scouts are mostly elderly dwarves that ride an especially fast gryphon to catch up with fleeing prey or to espy the foothills of the great mountains of the Northlands. The riders are often old dwarves not because they are particularly experienced, but because their life is expendable, as the flights of Gryphon Scouts are often a very dangerous undertaking."
+msgstr ""
+
+#. [attack]: type=blade
+#: Ashen_Hearts/units/Gryphon_Scout.cfg:31
+#: Ashen_Hearts/units/Gryphon_Thunderlord.cfg:31
+msgid "claws"
+msgstr ""
+
+#. [attack]: type=impact
+#: Ashen_Hearts/units/Gryphon_Scout.cfg:41
+msgid "net"
+msgstr ""
+
+#. [unit_type]: id=Gryphon Thunderlord, race=gryphon
+#: Ashen_Hearts/units/Gryphon_Thunderlord.cfg:5
+msgid "Gryphon Thunderlord"
+msgstr ""
+
+#. [unit_type]: id=Gryphon Thunderlord, race=gryphon
+#: Ashen_Hearts/units/Gryphon_Thunderlord.cfg:21
+msgid "The bond between the Gryphon Thunderlords and their gryphons is unexcelled, forming a steady unity. Being enchanted with runic armor, these gryphons are able to reach the sky with ease. Once atop the clouds themselves, the Gryphon Thunderlords cast appalling lightning strikes to decimate and demoralize their foes."
+msgstr ""
+
+#. [unit_type]: id=Wanderer, race=hidden_race
+#. [unit_type]: id=Porter, race=hidden_race
+#: Ashen_Hearts/units/The_Wanderer.cfg:27
+#: Ashen_Hearts/units/The_Wanderer.cfg:119
 msgid "A mystical light. It is wandering around the Heartfangs since the inner fire of the drakes of the Ashen's Maw weakened."
 msgstr ""
 
 #. [attack]: type=arcane
-#: Ashen_Hearts/units/wanderer.cfg:29
-#: Ashen_Hearts/units/wanderer.cfg:72
-#: Ashen_Hearts/units/wanderer.cfg:107
+#: Ashen_Hearts/units/The_Wanderer.cfg:37
+#: Ashen_Hearts/units/The_Wanderer.cfg:83
+#: Ashen_Hearts/units/The_Wanderer.cfg:129
 msgid "missile"
 msgstr ""
 
-#. [attack]: type=blade
-#: Ashen_Hearts/units/wanderer.cfg:62
+#. [attack]: type=arcane
+#: Ashen_Hearts/units/The_Wanderer.cfg:73
 msgid "berdysch"
 msgstr ""
 
