@@ -1,5 +1,7 @@
 # Ashen Hearts
 
+Latest Revision Author and Redesigner: Lord-Knyghtmare
+
 Original Author: Kwandulin
 
 ## Heavily Revised and Maintained by: Knyghtmare
