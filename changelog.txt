@@ -1,9 +1,9 @@
 Ashen Hearts
 ===================
-Change Log v3.0.4
+Change Log v4.0.0
 ===================
 
-v3.0.4
+v 4.0.0
 -------------------
 --> added WISh as dependency
 --> S1: Menor IV will not recruit on HARD
