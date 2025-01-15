@@ -1,7 +1,12 @@
 Ashen Hearts
 ===================
-Change Log v4.0.0
+Change Log v4.0.1
 ===================
+
+v 4.0.1
+-------------------
+--> Lowered XP modifier on Easy
+    --> suggested by @cooljeanius
 
 v 4.0.0
 -------------------
