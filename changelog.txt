@@ -1,7 +1,14 @@
 Ashen Hearts
 ===================
-Change Log v4.0.1
+Change Log v4.0.6
 ===================
+
+v 4.0.6
+-------------------
+--> Bug fixes
+--> balance: Item Equip and Dequip consumes all movement and attack now
+--> balance: Elri Amulet no longe full heals
+    --> some of you were really exploiting this one...
 
 v 4.0.1
 -------------------
