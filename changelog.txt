@@ -1,7 +1,14 @@
 Ashen Hearts
 ===================
-Change Log v4.0.6
+Change Log v4.0.8
 ===================
+
+v 4.0.8
+-------------------
+--> balance: Recall costs adjusted
+    --> level 3: 25 gold
+    --> level 4: 30 gold
+    --> level 5+: 35 gold (not really used in AH)
 
 v 4.0.6
 -------------------
